@@ -1,0 +1,97 @@
+---
+title: "Topic outline"
+author: "Rick Gilmore"
+date: "11/2/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, include = FALSE)
+```
+
+## Week 1: Approaches to vision
+
+- Information in light
+- Approaches
+    - Ecological (Gibson)
+    - Computational (Marr, etc.)
+    - Big data/AI/network
+- Key ideas
+    - Receptive fields
+    - Spatial frequency
+    - Feature detectors
+    - Contrast
+
+## Week 2: Methods
+
+- Behavioral
+    - [Psychophysical](https://en.wikipedia.org/wiki/Psychophysics)
+        - Constants
+        - Adjustment
+        - Limits
+        - Adaptive methods
+            - Staircases
+            - Bayesian
+    - Magnitude estimation (Stevens)
+    - Thresholds
+        - Absolute
+        - Relative/difference
+            - JNDs
+    - Ideal observers 
+    - Signal detection theory
+    - RT, judgments
+- Neural
+    - Single unit
+    - EEG
+    - fMRI
+- Computational
+
+## Week 3: Position
+
+- Acuity
+    - Grating
+    - Optotype
+
+## Week 4: Motion
+
+- Uniform motion
+- Self-motion/optic flow
+- Object motion
+
+## Week 5: Depth/Scene perception
+## Week 6: Objects
+
+- Shape/form
+- Disorders of object processing
+
+## Week 7: Faces
+
+- Disorders of face processing
+
+## Week 8: Color
+
+- Neural circuits
+- Disorders of color processing
+    - Peripheral
+    - Central
+    
+## Week 9: Eye/head movements
+
+- Saccades
+- OKN, VOR
+- Vergence
+
+## Week 10: Attention
+
+## Week 11: Perception & Action
+
+## Week 12: Applied vision
+
+- Visual disorders
+    - Myopia, amblyopia, strabismus, presbyopia
+- Vision in design
+- Vision in art
+
+## Week 13: Illusions!
+## Week 14: Vision vis-a-vis other senses
+## Week 15: Students' choice/demos
