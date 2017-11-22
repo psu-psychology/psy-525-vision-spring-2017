@@ -1,0 +1,11 @@
+---
+title: "Resources"
+---
+
+## Text
+
+Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. MIT Press. Retrieved from https://books.google.com/books?id=mNrxCwAAQBAJ
+
+## Web sites
+
+- Course home page: <http://psu-psych.github.io/psy-525-vision-2018>

@@ -1,0 +1,19 @@
+---
+title: "Evaluation"
+---
+
+PSY 511 course performance will be evaluated based on the following scheme:
+
+| Component           | Points                      | % of Grade |
+|---------------------|------------------------------|-------|
+| Class participation | 2 pts/class * 15 weeks = 30  | 30    |
+| Quizzes             | 10 pts * 3 quizzes = 30      | 30    |
+| Group presentation  | 20 pts                       | 20    |
+| Paper write-up      | 20 pts                       | 20    |
+| **TOTAL**           | **100**                      | **100** |
+
+## Group presentation
+
+## Resource write-up
+
+Please write-up a review of i) one of the references you discuss in your group presentation or ii) another paper of your choosing in the style of a *Neuron* "Preview" or a *Nature* "Research Highlights" paper. Your review should be 2,000-2,500 words (6-10 pp in length).
