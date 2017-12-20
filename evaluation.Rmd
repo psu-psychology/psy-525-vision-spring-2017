@@ -1,0 +1,28 @@
+---
+title: "Evaluation"
+---
+
+PSY 525 course performance will be evaluated based on the following scheme:
+
+| Component           | Points                       | % of Grade |
+|---------------------|------------------------------|------------|
+| Class participation | 4 pts/class * 15 weeks = 60  | 60         |
+| Term project        | 40 pts                       | 40         |
+| **TOTAL**           | **100**                      | **100**    |
+
+## Term project
+
+Your term project will consist of two components: An in-class oral presentation or demo and a written summary. Each component is worth 20 points. 
+I will ask you to submit a draft proposal early in the course and decide on the topic before Spring Break. As such, I expect you to be working 1-3 hours per week on the term project.
+
+### Ideas
+
+- Build a Raspberry Pi computer for vision science and demo it.
+    - e.g., using Google's [AIY](http://www.microcenter.com/product/501552/AIY_VISION_KIT) hardware.
+- Write computer code to demonstrate a core idea or phenomenon in vision science.
+- Write research proposal for a project in vision science.
+- Evaluate a machine learning algorithm applied to some defined class of images or videos.
+- Write a critical review of some selection of papers from the vision science literature.
+- Write a persuasive piece on the topic "What X scientists should know about vision" where X is some subdiscipline you feel would benefit from knowledge about vision science.
+- Carry out and report on a small-scale pilot study on some topic in vision science.
+- Plan and carry out a replication study of some paper in vision science.

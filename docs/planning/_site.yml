@@ -1,0 +1,19 @@
+name: "PSY 525 Spring 2018"
+navbar:
+  title: "PSY 525"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Evaluation"
+      href: evaluation.html
+    - text: "Site info"
+      href: site-info.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    include:
+      after_body: footer.html

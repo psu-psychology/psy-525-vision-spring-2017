@@ -1,0 +1,150 @@
+---
+title: "Schedule"
+---
+
+---
+
+## Week 1 • Mon Jan 8
+
+- Topics
+    - About the course
+    - Approaches to vision
+- Readings
+    - Palmer, chapter 1
+    - Barlow, H. B. (1972). Single units and sensation: a neuron doctrine for perceptual psychology? *Perception*, *1*(4), 371–394. journals.sagepub.com. Retrieved from <http://dx.doi.org/10.1068/p010371>
+
+---
+
+## Week 2 • Mon Jan 15
+
+- Topics
+    - Methods in vision research
+    - Theoretical approaches to vision
+- Readings
+    - Palmer, chapter 2 & Appendix A & B
+
+---
+
+## Week 3 • Mon Jan 22
+
+- Topics
+    - The retinal image
+- Readings
+    - Palmer, chapter 4
+    - Campbell, F. W., & Robson, J. G. (1968). Application of Fourier analysis to the visibility of gratings. *The Journal of Physiology*, *197*(3), 551–566. Wiley Online Library. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/5666169
+
+---
+
+## Week 4 • Mon Jan 29
+
+- Topics
+    - Depth perception
+- Readings
+    - Palmer, chapter 5
+    - Leopold, D. A., & Logothetis, N. K. (1996). Activity changes in early visual cortex reflect monkeys’ percepts during binocular rivalry. *Nature*, *379*(6565), 549–553. nature.com. Retrieved from <http://dx.doi.org/10.1038/379549a0>
+
+---
+
+## Week 5 • Mon Feb 5
+
+- Topics
+    - Perceptual organization
+    - Size, shape, orientation, & position
+- Readings
+    - Palmer, chapters 6 & 7
+
+---
+
+## Week 6 • Mon Feb 12
+
+- Topics
+    - Shape and form
+- Readings
+    - Palmer, chapter 7.6, 8
+    - Biederman, I. (1987). Recognition-by-components: a theory of human image understanding. *Psychological Review*, *94*(2), 115–147. psycnet.apa.org. Retrieved from <https://www.ncbi.nlm.nih.gov/pubmed/3575582>
+
+---
+
+## Week 7 • Mon Feb 19
+
+- Topics
+    - Objects, scenes, faces
+- Readings
+    - Palmer, chapter 9
+    - Schyns, P. G., & Oliva, A. (1994). From Blobs to Boundary Edges: Evidence for Time- and Spatial-Scale-Dependent Scene Recognition. *Psychological Science*, *5*(4), 195–200. SAGE Publications Inc. Retrieved from <https://doi.org/10.1111/j.1467-9280.1994.tb00500.x>
+    - Kanwisher, N., McDermott, J., & Chun, M. M. (1997). The fusiform face area: a module in human extrastriate cortex specialized for face perception. *The Journal of Neuroscience*, *17*(11), 4302–4311. Retrieved from <https://www.ncbi.nlm.nih.gov/pubmed/9151747>
+
+---
+
+## Week 8 • Mon Feb 26
+
+- Topics
+    - Color
+- Readings
+    - Palmer, chapter 3
+    - Nikolić, D., Lichti, P., & Singer, W. (2007). Color opponency in synaesthetic experiences. *Psychological Science*, *18*(6), 481–486. journals.sagepub.com. Retrieved from <http://dx.doi.org/10.1111/j.1467-9280.2007.01925.x>
+    
+---
+
+## Spring Break • Mar 5-9 • No class
+
+---
+
+## Week 9 • Mon Mar 12
+
+- Topics
+    - Motion
+- Readings
+    - Palmer, chapter 10
+    - Johansson, G. (1973). Visual perception of biological motion and a model for its analysis. *Perception & Psychophysics*, *14*(2), 201–211. Springer-Verlag. Retrieved December 20, 2017, from <https://link.springer.com/article/10.3758/BF03212378>
+    - Newsome, W. T., & Paré, E. B. (1988). A selective impairment of motion perception following lesions of the middle temporal visual area (MT). *The Journal of Neuroscience*, *8*(6), 2201–2211. Retrieved March 30, 2015, from <https://www.ncbi.nlm.nih.gov/pubmed/3385495>
+    
+---
+
+## Week 10 • Mon Mar 19
+
+- Topics
+    - Eye and head movements
+- Readings
+    - Palmer, Chapter 11
+    - Schütz, A. C., Braun, D. I., & Gegenfurtner, K. R. (2011). Eye movements and perception: a selective review. *Journal of Vision*, *11*(5). Retrieved from <http://dx.doi.org/10.1167/11.5.9>
+
+---
+
+## Week 11 • Mon Mar 26 • No class
+
+- Topics
+    - No class meeting; use the time to work on term projects
+
+---
+
+## Week 12 • Mon Apr 2
+
+- Topics
+    - Attention
+- Readings
+    - Palmer, chapter 11.2
+    - Treisman, A. M., & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, *12*(1), 97–136. Elsevier. Retrieved from <https://www.ncbi.nlm.nih.gov/pubmed/7351125>
+    - Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: sustained inattentional blindness for dynamic events. *Perception*, *28*(9), 1059–1074. Retrieved from <http://dx.doi.org/10.1068/p281059>
+    
+---
+
+## Week 13 • Mon Apr 9
+
+- Topics
+    - Perception & action
+- Readings
+    - Gibson, J. J. (2014). The Ecological Approach to Visual Perception: Classic Edition. Psychology Press. Retrieved from https://market.android.com/details?id=book-8BSLBQAAQBAJ, chapters 12-14.
+    - Costall, A. P. (1984). Are theories of perception necessary? A review of Gibson’s The Ecological Approach to Visual Perception. Journal of the experimental analysis of behavior, 41(1), 109–115. Wiley Online Library. Retrieved from http://dx.doi.org/10.1901/jeab.1984.41-109
+
+---
+
+## Week 14 • Mon Apr 16
+
+- Student presentations/demos
+
+---
+
+## Week 15 • Mon Apr 23
+
+- Student presentations/demos
