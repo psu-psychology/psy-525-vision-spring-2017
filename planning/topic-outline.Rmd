@@ -9,6 +9,13 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE, include = FALSE)
 ```
 
+## Resources
+
+- List of 100 vision papers: <https://ftvision.github.io/vision100>
+- WebVision 100 papers you should read: <http://webvision.med.utah.edu/category/100-papers-you-should-read/>
+- Viperlib, <http://viperlib.york.ac.uk/>
+- 50th Anniversary of Vision Research, <http://www.sciencedirect.com/science/journal/00426989/51/7>
+
 ## Week 1: Approaches to vision
 
 - Information in light
@@ -21,9 +28,16 @@ knitr::opts_chunk$set(echo = FALSE, include = FALSE)
     - Spatial frequency
     - Feature detectors
     - Contrast
+- Possible readings
+    - Jones, J. P. and Palmer, L. A. (1987) An evaluation of the two-dimensional Gabor filter model of simple receptive fields in cat striate cortex. J Neurophysiol, 58(6) 1233-1258.
+    - Campbell FW, Robson JG. (1968) Application of Fourier analysis to the visibility of gratings. J Physiol 197(3):551-66.
+    - Barlow, H. B. (1972) Single units and sensation: A neuron doctrine for perceptual psychology? Perception, 1, 371-394.
 
 ## Week 2: Methods
 
+- Images
+    - Geometry
+        - Units: degrees ($\degree$, $\textdegree$, $^{\circ}$), minutes ('), seconds of arc ('').
 - Behavioral
     - [Psychophysical](https://en.wikipedia.org/wiki/Psychophysics)
         - Constants
@@ -39,51 +53,115 @@ knitr::opts_chunk$set(echo = FALSE, include = FALSE)
             - JNDs
     - Ideal observers 
     - Signal detection theory
+        - http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/sdt/sdt.html
     - RT, judgments
 - Neural
     - Single unit
     - EEG
     - fMRI
 - Computational
+- Resources
+    - http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/psychophysics/psychophysics.html
+    - Psychophysics of Vision. http://webvision.med.utah.edu/book/part-viii-gabac-receptors/psychophysics-of-vision/
+- Possible readings
+    - Sereno, M. I. et al. (1995) Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. Science, 268(5212), 889-893.
+    - DeValois, R.L., Albrecht, D.G., Thorell, L.G. (1982) Spatial frequency selectivity of cells in macaque visual cortex. Vision Research, 22(5): 545-559.
 
-## Week 3: Position
+## Week 3: Position and depth
 
 - Acuity
     - Grating
     - Optotype
+- Depth cues
+    - Monocular
+    - Binocular
+    - Motion
+- Possible readings
+    - Barlow HB, Blakemore C, Pettigrew JD. (1967) The neural mechanism of binocular depth discrimination. J Physiol, 193(2):327-42.
+    - Marr, D., & Poggio, T. (1976) Cooperative computation of stereo disparity. Science, 194(4262): 283-287.
+    - Leopold, D. A. and Logothetis, N. K. (1996) Activity changes in early visual cortex reflect monkeys’ percepts during binocular rivalry. Nature, 379: 549-553.
 
-## Week 4: Motion
+## Week 4: Scene perception
+
+- Depth cues
+    - Monocular
+    - Binocular
+    - Motion
+- Possible readings
+    - Barlow HB, Blakemore C, Pettigrew JD. (1967) The neural mechanism of binocular depth discrimination. J Physiol, 193(2):327-42.
+    - Marr, D., & Poggio, T. (1976) Cooperative computation of stereo disparity. Science, 194(4262): 283-287.
+    - Leopold, D. A. and Logothetis, N. K. (1996) Activity changes in early visual cortex reflect monkeys’ percepts during binocular rivalry. Nature, 379: 549-553.
+    - Schyns, P. G., & Oliva, A. (1994). From Blobs to Boundary Edges: Evidence for Time- and Spatial-Scale-Dependent Scene Recognition. Psychological science, 5(4), 195–200. SAGE Publications Inc. Retrieved from https://doi.org/10.1111/j.1467-9280.1994.tb00500.x
+
+## Week 5: Objects
+
+- Shape/form
+- Disorders of object processing
+- Possible readings
+    - Biederman, I. (1987) Recognition-by-components: A theory of human image understanding. Psychological Review, 94, 115-147.
+
+## Week 6: Faces
+
+- Disorders of face processing
+- Possible readings
+    - Kanwisher, N., McDermott, J., Chun, M.M. (1997) The fusiform face area: A module in human extrastriate cortex specialized for face perception. Journal of Neuroscience, 17(11): 4302-4311.
+
+## Week 7: Color
+
+- Biological bases/neural circuits
+- Disorders of color processing
+    - Peripheral
+    - Central
+- Possible readings
+    - Livingstone, M.S., Hubel, D.H. (1984) Anatomy and physiology of a color system in the primate visual cortex. Journal of Neuroscience, 4(1): 309-356.
+    - Nathans, J., Thomas, D., and Hogness, D. S. (1986) Molecular genetics of human color vision: the genes encoding blue, green, and red pigments. Science, 232(4747): 193 - 202.
+    - Maloney, L. T. and Wandell, B. A. (1986) Color constancy: a method for recovering surface spectral reflectance. J Opt Soc Am A, 3(1): 29-33.
+
+## Week 8: Motion
 
 - Uniform motion
 - Self-motion/optic flow
 - Object motion
+- Possible readings
+    - Adelson E. H. & Bergen, J. R. (1985) Spatio-temporal energy models for the perception of motion. Journal of the Optical Society of America A, 2, 284-299.
+    - Johansson, G. (1973) Visual perception of biological motion and a model for its analysis. Perception & Psychophysics, 14, 201-211.
+    - Watson, A. B. and Ahumada A. J. (1985) Model of human visual-motion sensing. J Opt Soc Am A, 2(2): 322-341.
+    - Newsome, W.T., Pare, E.B. (1988) A selective impairment of motion perception following lesions of the middle temporal visual area (MT). Journal of Neuroscience, 8(6): 2201-2211.
+    - Britten, K. H., Shadlen, M. N., Newsome, W. T., and Movshon, J. A. (1992) The analysis of visual motion: a comparison of neuronal and psychophysical performance. J Neuroscience, 12, 4745-4765.
+    - Treue, S. and Maunsell, J. H. R. (1996) Attentional modulation of visual motion processing in cortical areas MT and MST. Nature, 382: 539-541.
+    - Watson, J. D. G. (1993) Area V5 of the Human Brain: Evidence from a Combined Study Using Positron Emission Tomography and Magnetic Resonance Imaging. Cerebral Cortex, 3, 79-94.
+    - Tootell, R.B.H. et al. (1995) Functional analysis of human MT and related visual cortical areas using magnetic resonance imaging. Journal of Neuroscience, 15(4): 3215-3230.
+    - Adelson, E. H., & Movshon, J. A. (1982) Phenomenal coherence of moving visual patterns. Nature, 300, 523-525.
 
-## Week 5: Depth/Scene perception
-## Week 6: Objects
-
-- Shape/form
-- Disorders of object processing
-
-## Week 7: Faces
-
-- Disorders of face processing
-
-## Week 8: Color
-
-- Neural circuits
-- Disorders of color processing
-    - Peripheral
-    - Central
-    
 ## Week 9: Eye/head movements
 
-- Saccades
-- OKN, VOR
-- Vergence
+- Topics
+    - Saccades
+    - OKN, VOR
+    - Vergence
+- Possible readings
+    - Schütz, A. C., Braun, D. I., & Gegenfurtner, K. R. (2011). Eye movements and perception: a selective review. *Journal of Vision*, *11*(5). Retrieved from http://dx.doi.org/10.1167/11.5.9
+    - Martinez-Conde, S., Macknik, S. L., & Hubel, D. H. (2004). The role of fixational eye movements in visual perception. *Nature Reviews Neuroscience*, *5*(3), 229–240. Retrieved from http://dx.doi.org/10.1038/nrn1348
+    - Kowler, E. (2011). Eye movements: the past 25 years. *Vision Research*, *51*(13), 1457–1483. Retrieved from http://dx.doi.org/10.1016/j.visres.2010.12.014
 
 ## Week 10: Attention
 
+- Topics
+    - Spatial attention
+    - Inattentional blindness
+    - Attentional blink
+- Possible readings
+    - Treisman, A. M., & Gelade, G. (1980) A feature integration theory of attention. *Cognitive Psychology*, 12, 97-136.
+    - Heinze, H. J. et al. (1994) Combined spatial and temporal imaging of brain activity during visual selective attention in humans. *Nature*, 372(6506): 543-546.
+    - Posner, M. I. (1980) Orienting of attention. Quarterly Journal of Experimental Psychology, 32, 3-25.
+    - Itti, L. and Koch, C. (2000) A saliency-based search mechanism for overt and covert shifts of visual attention. Vision Res. 40(10-12):1489-1506.
+    - Wolfe, J.M., Cave, K.R., Franzel, S.L. (1989) Guided search: an alternative to the feature integration model for visual search. Journal of Experimental Psychology: Human Perception and Performance, 15(3): 419-433.
+
 ## Week 11: Perception & Action
+
+- Possible readings
+    - Goodale, M. A., & Milner, A. D. (1992) Separate visual pathways for perception and action. Trends in Neurosciences, 15, 20-25.
+    - Mishkin, M., Ungerleider, L. G., & Macko, K. A. (1983) Object vision and spatial vision: Two cortical pathways. Trends in Neurosciences, 6, 414-417.
 
 ## Week 12: Applied vision
 
@@ -91,7 +169,11 @@ knitr::opts_chunk$set(echo = FALSE, include = FALSE)
     - Myopia, amblyopia, strabismus, presbyopia
 - Vision in design
 - Vision in art
+- Idea:
+    - Field trip to optometrist's office
 
-## Week 13: Illusions!
-## Week 14: Vision vis-a-vis other senses
-## Week 15: Students' choice/demos
+## Week 13: Deep Learning, Convolutional Neural Networks, and Machine Learning
+
+## Week 14: Student presentations/demos
+
+## Week 15: Student presentations/demos

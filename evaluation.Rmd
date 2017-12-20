@@ -26,3 +26,4 @@ I will ask you to submit a draft proposal early in the course and decide on the 
 - Write a persuasive piece on the topic "What X scientists should know about vision" where X is some subdiscipline you feel would benefit from knowledge about vision science.
 - Carry out and report on a small-scale pilot study on some topic in vision science.
 - Plan and carry out a replication study of some paper in vision science.
+
