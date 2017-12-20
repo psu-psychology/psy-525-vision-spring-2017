@@ -4,7 +4,6 @@ title: "Schedule"
 
 ---
 
-<<<<<<< HEAD
 ## Week 1 • Mon Jan 8
 
 - Topics
@@ -149,36 +148,3 @@ title: "Schedule"
 ## Week 15 • Mon Apr 23
 
 - Student presentations/demos
-=======
-## Week 1: Monday, January 8
-
-## Week 2: Monday, January 15
-
-## Week 3: Monday, January 22
-
-## Week 4: Monday, January 29
-
-## Week 5: Monday, February 5
-
-## Week 6: Monday, February 12
-
-## Week 7: Monday, February 19
-
-## Week 8: Monday, February 26
-
-## Spring Break, March 5-9
-
-## Week 9: Monday, March 12
-
-## Week 10: Monday, March 19
-
-## Week 11: Monday, March 26
-
-## Week 12, Monday, April 2
-
-## Week 13: Monday, April 9
-
-## Week 14: Monday, April 16
-
-## Week 15: Monday, April 23
->>>>>>> 56bca1640f66650b58a21ef413ed415f67005b90
