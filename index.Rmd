@@ -4,7 +4,7 @@ title: ""
 
 # Vision Science
 
-## PSY 525
+## PSY 525.001
 
 <img src="https://www.thebridgeva.org/wp-content/uploads/2016/01/shutterstock_129632420.jpg" width=480px/>
 
@@ -38,7 +38,61 @@ Course 17684</br>
 
 Undergraduate or graduate coursework in sensation and perception, neuroscience, or physiological psychology are helpful, but not required.
 
-## Resources
+### Text
 
-- Text
-    - Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. MIT Press. Retrieved from https://books.google.com/books?id=mNrxCwAAQBAJ
+Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. MIT Press. Retrieved from https://books.google.com/books?id=mNrxCwAAQBAJ
+
+## Evaluation
+
+PSY 525 course performance will be evaluated based on the following scheme:
+
+| Component           | Points                       | % of Grade |
+|---------------------|------------------------------|------------|
+| Class participation | 4 pts/class * 15 weeks = 60  | 60         |
+| Term project        | 40 pts                       | 40         |
+| **TOTAL**           | **100**                      | **100**    |
+
+
+## Schedule summary
+
+### Week 1: Monday, January 8
+
+### Week 2: Monday, January 15
+
+### Week 3: Monday, January 22
+
+### Week 4: Monday, January 29
+
+### Week 5: Monday, February 5
+
+### Week 6: Monday, February 12
+
+### Week 7: Monday, February 19
+
+### Week 8: Monday, February 26
+
+### Spring Break, March 5-9, No class meeting
+
+### Week 9: Monday, March 12
+
+### Week 10: Monday, March 19
+
+### Week 11: Monday, March 26, No class meeting
+
+### Week 12, Monday, April 2
+
+### Week 13: Monday, April 9
+
+### Week 14: Monday, April 16
+
+### Week 15: Monday, April 23
+
+## Evaluation
+
+PSY 525 course performance will be evaluated based on the following scheme:
+
+| Component           | Points                       | % of Grade |
+|---------------------|------------------------------|------------|
+| Class participation | 5 pts/class * 14 weeks = 60  | 60         |
+| Term project        | 40 pts                       | 40         |
+| **TOTAL**           | **100**                      | **100**    |
