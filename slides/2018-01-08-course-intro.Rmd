@@ -74,9 +74,11 @@ Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press. Ret
 
 ---
 
-## Schedule
+## Semester schedule
 
 <http://psu-psychology.github.io/psy-525-vision-2018/schedule.html>
+
+## Typical class
 
 ### 1st 75 min: lecture/tutorial
 
@@ -93,6 +95,21 @@ Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press. Ret
 | Class participation | 5 pts/class * 14 weeks = 60  | 60         |
 | Term project        | 40 pts                       | 40         |
 | **TOTAL**           | **100**                      | **100**    |
+
+---
+## Examples
+
+- Build a Raspberry Pi computer for vision science and demo it.
+    - e.g., using Google's [AIY](http://www.microcenter.com/product/501552/AIY_VISION_KIT) hardware.
+- Write computer code to demonstrate a core idea or phenomenon in vision science.
+- Write research proposal for a project in vision science.
+- Evaluate a machine learning algorithm applied to some defined class of images or videos.
+- Write a critical review of some selection of papers from the vision science literature.
+- Write a persuasive piece on the topic "What X scientists should know about vision" where X is some subdiscipline you feel would benefit from knowledge about vision science.
+- Carry out and report on a small-scale pilot study on some topic in vision science.
+- Plan and carry out a replication study of some paper in vision science.
+- Demonstrate and explain a set of compelling visual illusions.
+
 
 ---
 class: center, middle
@@ -280,7 +297,14 @@ class: center
 <img src="img/logothetis-1999.jpg" height=500px>
 
 Logothetis, N. K. (1999). Vision: a window on consciousness. Scientific American, 281(5), 69–75. JSTOR. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/10920769
-    
+
+---
+class: center, middle
+
+<a href="https://doi.org/10.1371/journal.pcbi.1005268">
+<img src="http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005268.g013&type=large" height=500px>
+</a>
+Jonas, E., & Kording, K. P. (2017). Could a Neuroscientist Understand a Microprocessor? PLoS computational biology, 13(1), e1005268. Public Library of Science. Retrieved January 3, 2018, from http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005268&type=printable
 ---
 class: center, middle
 
@@ -321,7 +345,7 @@ class: center, middle
 ---
 class: center, middle
 
-# Clinical psychologists
+# Clinical psychologists...
 
 ## Some conditions may reveal themselves through perceptual characteristics.
 
@@ -339,8 +363,7 @@ class: inverse, center, middle
 # What question is Barlow trying to answer?
 
 --
->*"I shall discuss the difficult but challenging problem of the relation
-between our subjective perceptions and the activity of the nerve cells in our brains..."*
+>*"I shall discuss the difficult but challenging problem of the relation between our subjective perceptions and the activity of the nerve cells in our brains..."*
 
 ---
 class: center, middle
@@ -371,14 +394,12 @@ class: center, middle
 ---
 class: center, middle
 
->*"two important concepts from the frog's retina: it
-transmits a map, not of the light intensities at each point of the image, but of the trigger features in the world before the eye, and its main function is not to transduce different luminance levels into different impulse frequencies, but to continue responding invariantly to the same external patterns despite changes of average luminance."*
+>*"two important concepts from the frog's retina: it transmits a map, not of the light intensities at each point of the image, but of the trigger features in the world before the eye, and its main function is not to transduce different luminance levels into different impulse frequencies, but to continue responding invariantly to the same external patterns despite changes of average luminance."*
 
 ---
 class: center, middle
 
->*"In the cortex Hubel and Wiesel (1962) found that some of the higher
-level neurons responded to the same trigger feature over a considerable range of positions. The modality specificity of peripheral neurons indicates how one can, for instance, detect warmth at any point on the body surface, and we now see that the organized pattern specificity of a set of cortical neurons can in the same way produce positional invariance for pattern perception. "*
+>*"In the cortex Hubel and Wiesel (1962) found that some of the higher level neurons responded to the same trigger feature over a considerable range of positions. The modality specificity of peripheral neurons indicates how one can, for instance, detect warmth at any point on the body surface, and we now see that the organized pattern specificity of a set of cortical neurons can in the same way produce positional invariance for pattern perception."*
 
 ---
 class: center, middle
