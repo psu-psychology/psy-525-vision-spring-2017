@@ -1,6 +1,6 @@
 ---
-title: "Xaringen template"
-subtitle: "For lectures"
+title: "2018-01-01 Lecture Topic"
+subtitle: "PSY 525.001"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 output:
@@ -16,12 +16,6 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
-
-???
-
-Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
-
 ---
 class: center, middle
 
@@ -32,17 +26,25 @@ class: center, middle
 ---
 class: inverse, center, middle
 
-# Get Started
+# Today's topics
+
+--
+
+## Introduction to the course
+
+--
+
+## An introduction to vision science
+
+--
+
+## Discussion of Barlow
 
 ---
 
 # Hello World
 
 Install the **xaringan** package from [Github](https://github.com/yihui/xaringan):
-
-```{r eval=FALSE, tidy=FALSE}
-devtools::install_github("yihui/xaringan")
-```
 
 --
 
