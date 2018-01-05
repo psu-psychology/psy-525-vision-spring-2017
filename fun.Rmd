@@ -1,0 +1,22 @@
+---
+title: "Fun"
+---
+
+This page is a place to save some cool vision-related demos.
+
+## Red/Green Stereo Anaglyphs
+
+Use red (left eye)/green (right eye) filters to see these. The first two are from <http://www.skytopia.com/3d/3d.html>
+
+<a href="http://www.skytopia.com/gallery/3d/3d.html">
+<img src="http://www.skytopia.com/gallery/3d/3danim2.gif"/>
+</a>
+
+<a href="http://www.skytopia.com/gallery/3d/3d.html">
+<img src="http://www.skytopia.com/gallery/3d/grass-valley-anaglyph.jpg"/>
+</a>
+
+<img src="https://i.pinimg.com/originals/08/55/75/0855754ee58b8948eefaa1cff7cb0af1.jpg"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGpVNQfwyrE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+

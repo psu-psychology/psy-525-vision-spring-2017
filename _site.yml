@@ -8,6 +8,8 @@ navbar:
       href: schedule.html
     - text: "Evaluation"
       href: evaluation.html
+    - text: "Vision fun"
+      href: fun.html
     - text: "Site info"
       href: site-info.html
 output_dir: "docs"
