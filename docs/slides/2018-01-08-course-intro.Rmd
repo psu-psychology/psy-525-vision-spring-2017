@@ -14,6 +14,8 @@ output:
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
+library(tidyverse)
+library(imager)
 ```
 
 class: center, middle, inverse
@@ -243,6 +245,40 @@ From every point in space, $(x,y,z)$, at each time $t$, looking in every directi
 How does a {biological, artificial} visual system detect this and convert it into information about objects, positions, and motions?
 
 Adelson, E. H., & Bergen, J. R. (1991). The plenoptic function and the elements of early vision. Vision and Modeling Group, Media Laboratory, Massachusetts Institute of Technology. Retrieved from http://faculty.cs.tamu.edu/jchai/CPSC641/elements91.pdf
+
+---
+class: center
+
+# Computer images as arrays of numbers
+
+Digital images are arrays of numbers that specify position $(x,y)$, and wavelength $\lambda$ as **R**ed, **G**reen, **B**lue (RGB) values. 
+Movies are just $(x, y)$ arrays of $(R, G, B)$ values across time $t$.
+
+---
+
+```{r}
+path2parrots <- system.file('extdata/parrots.png', package='imager')
+parrots <- load.image(path2parrots)
+plot(parrots) 
+```
+
+---
+
+```{r}
+hist(R(parrots), main = "Histogram of Red values")
+```
+
+---
+
+```{r}
+hist(G(parrots), main = "Histogram of Green values")
+```
+
+---
+
+```{r}
+hist(B(parrots), main = "Histogram of Red values")
+```
 
 ---
 class: center

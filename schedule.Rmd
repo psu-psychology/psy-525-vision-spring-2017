@@ -12,7 +12,7 @@ title: "Schedule"
     - Discussion of Barlow (1972)
 - Readings
     - Palmer, chapter 1
-    - Barlow, H. B. (1972). Single units and sensation: a neuron doctrine for perceptual psychology? *Perception*, *1*(4), 371–394. journals.sagepub.com. Retrieved from <http://dx.doi.org/10.1068/p010371>. | [Link for comments](https://psu.box.com/s/4evn1w1xmy5cjw5uwwlpjp3aip6z3ld1) |
+    - Barlow, H. B. (1972). Single units and sensation: a neuron doctrine for perceptual psychology? *Perception*, *1*(4), 371–394. journals.sagepub.com. Retrieved from <http://dx.doi.org/10.1068/p010371>. | [Link for comments](https://psu.box.com/s/4evn1w1xmy5cjw5uwwlpjp3aip6z3ld1) |.
 - Materials
     - Lecture notes. | [HTML slides](slides/2018-01-08-course-intro.html) | [PDF](slides/2018-01-08-course-intro.pdf) |. 
 
