@@ -14,7 +14,7 @@ class: center, middle, inverse, title-slide
 # 2017-01-08 Course Introduction
 ## PSY 525.001 • Vision Science • 2018 Spring
 ### Rick Gilmore
-### 2018-01-08 10:55:53
+### 2018-01-08 11:37:23
 
 ---
 
@@ -248,6 +248,52 @@ From every point in space, `\((x,y,z)\)`, at each time `\(t\)`, looking in every
 How does a {biological, artificial} visual system detect this and convert it into information about objects, positions, and motions?
 
 Adelson, E. H., &amp; Bergen, J. R. (1991). The plenoptic function and the elements of early vision. Vision and Modeling Group, Media Laboratory, Massachusetts Institute of Technology. Retrieved from http://faculty.cs.tamu.edu/jchai/CPSC641/elements91.pdf
+
+---
+class: center
+
+# Computer images as arrays of numbers
+
+Digital images are arrays of numbers that specify position `\((x,y)\)`, and wavelength `\(\lambda\)` as **R**ed, **G**reen, **B**lue (RGB) values. 
+Movies are just `\((x, y)\)` arrays of `\((R, G, B)\)` values across time `\(t\)`.
+
+---
+
+
+```r
+path2parrots &lt;- system.file('extdata/parrots.png', package='imager')
+parrots &lt;- load.image(path2parrots)
+plot(parrots) 
+```
+
+![](2018-01-08-course-intro_files/figure-html/unnamed-chunk-1-1.png)&lt;!-- --&gt;
+
+---
+
+
+```r
+hist(R(parrots), main = "Histogram of Red values")
+```
+
+![](2018-01-08-course-intro_files/figure-html/unnamed-chunk-2-1.png)&lt;!-- --&gt;
+
+---
+
+
+```r
+hist(G(parrots), main = "Histogram of Green values")
+```
+
+![](2018-01-08-course-intro_files/figure-html/unnamed-chunk-3-1.png)&lt;!-- --&gt;
+
+---
+
+
+```r
+hist(B(parrots), main = "Histogram of Red values")
+```
+
+![](2018-01-08-course-intro_files/figure-html/unnamed-chunk-4-1.png)&lt;!-- --&gt;
 
 ---
 class: center
