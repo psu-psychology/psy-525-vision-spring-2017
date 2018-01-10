@@ -18,19 +18,23 @@ title: "Schedule"
 
 ---
 
-## Week 2 • Mon Jan 15
+## Week 2 • Mon Jan 15 • No class
+
+---
+
+## Week 3 • Mon Jan 22
 
 - Topics
     - Methods in vision research
     - Theoretical approaches to vision
 - Readings
     - Palmer, chapter 2 & Appendix A & B
-    - Teller, D. Y. (1984). Linking propositions. *Vision Research*, *24*(10), 1233–1246. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/6395480. | [Link for comments](https://psu.box.com/s/eonkjify5miskznvi4gy9ar7vivqorpl) |
+    - **Optional**. Teller, D. Y. (1984). Linking propositions. *Vision Research*, *24*(10), 1233–1246. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/6395480. | [Link for comments](https://psu.box.com/s/eonkjify5miskznvi4gy9ar7vivqorpl) |
     - **Optional**. Read, J. C. A. (2015). The place of human psychophysics in modern neuroscience. *Neuroscience*, *296*, 116–129. Retrieved from http://dx.doi.org/10.1016/j.neuroscience.2014.05.036
 
 ---
 
-## Week 3 • Mon Jan 22
+## Week 4 • Mon Jan 29
 
 - Topics
     - The retinal image
@@ -40,7 +44,7 @@ title: "Schedule"
 
 ---
 
-## Week 4 • Mon Jan 29
+## Week 5 • Mon Feb 5
 
 - Topics
     - Depth perception
@@ -50,22 +54,13 @@ title: "Schedule"
 
 ---
 
-## Week 5 • Mon Feb 5
+## Week 6 • Mon Feb 12
 
 - Topics
     - Perceptual organization
     - Size, shape, orientation, & position
 - Readings
-    - Palmer, chapters 6 & 7
-
----
-
-## Week 6 • Mon Feb 12
-
-- Topics
-    - Shape and form
-- Readings
-    - Palmer, chapter 7.6, 8
+    - Palmer, chapters 6, 7, & 8
     - Biederman, I. (1987). Recognition-by-components: a theory of human image understanding. *Psychological Review*, *94*(2), 115–147. psycnet.apa.org. Retrieved from <https://www.ncbi.nlm.nih.gov/pubmed/3575582>
 
 ---

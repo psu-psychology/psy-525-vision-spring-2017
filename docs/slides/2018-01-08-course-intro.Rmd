@@ -277,7 +277,7 @@ hist(G(parrots), main = "Histogram of Green values")
 ---
 
 ```{r}
-hist(B(parrots), main = "Histogram of Red values")
+hist(B(parrots), main = "Histogram of Blue values")
 ```
 
 ---
@@ -337,7 +337,7 @@ class: center, middle
 |----------|------|----------------|
 | Move the eye | Inferior, superior, medial, & lateral rectus; inferior & superior oblique | [saccades](https://en.wikipedia.org/wiki/Saccade), [pursuit](https://en.wikipedia.org/wiki/Smooth_pursuit), [nystagmus](https://en.wikipedia.org/wiki/Nystagmus), [vergence](https://en.wikipedia.org/wiki/Vergence) |
 | Alter pupil diameter | Sphincter pupillae | |
-| Change lens thickness | [Ciliary muscle](https://en.wikipedia.org/wiki/Ciliary_muscle) | [accommodation](https://en.wikipedia.org/wiki/Accommodation_(eye)) |
+| Change lens thickness | [Ciliary muscle](https://en.wikipedia.org/wiki/Ciliary_muscle) | [accommodation](https://en.wikipedia.org/wiki/Accommodation_(eye) |
 
 ---
 class: center
