@@ -1,0 +1,877 @@
+---
+title: "2018-01-22 Methods & Theories"
+subtitle: "PSY 525.001 • Vision Science • 2018 Spring"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(tidyverse)
+library(psyphy)
+library(imager)
+```
+
+---
+
+# Today's topics
+
+--
+
+## Theoretical approaches to vision
+
+--
+
+## Methods in vision research
+
+---
+
+## Goals
+
+- Why vision science matters to other areas of cognition
+- How vision (or perceptual methods) affect other areas of behavioral science
+
+---
+class: center, middle
+
+## Seminal events 
+
+<div class="centered">
+<img src="https://images-na.ssl-images-amazon.com/images/I/31QrGNV7XCL._SX258_BO1,204,203,200_.jpg" height=500px>
+</div>
+
+---
+class: center, middle
+
+## Seminal events 
+
+<div class="centered">
+<img src="http://www.psych.wright.edu/~kbennett/assets/images/Gibson.jpg" height=500px>
+</div>
+
+---
+
+## Palmer's claims
+
+1. Perception is knowledge acquisition
+2. Knowledge is about objects and events
+3. Knowledge is extracted by information processing
+4. Information comes from reflected, refracted, or emitted light.
+
+---
+class: center, middle
+
+## Things to worry about
+
+### Or general problems that vision science keeps front and center
+
+---
+class: center, middle
+
+# Homunculus problem
+
+<div class="centered">
+<a href="https://en.wikipedia.org/wiki/Homunculus_argument">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Infinite_regress_of_homunculus.png" width=800px>
+</a>
+</div>
+
+---
+class: center, middle
+
+# [Marr's three levels](http://www.albany.edu/~ron/papers/marrlevl.html)
+
+## Computations
+## Algorithms
+## Implementations
+
+---
+class: center, middle
+
+<a href="http://www.nature.com/nrn/journal/v15/n8/box/nrn3747_BX2.html">
+<img src="http://www.nature.com/nrn/journal/v15/n8/images/nrn3747-i2.jpg" width=900px>
+</a>
+
+([Grill-Spector et al., 2014](http://doi.org/10.1038/nrn3747))
+
+---
+class: center, middle
+
+# What is information processing, anyway? 
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Information_processing_system_%28english%29.PNG">
+</div>
+
+---
+class: center, middle
+
+<div class="centered">
+<img src="img/palmer-1999-hierarchical-decomp.jpg" height=500px>
+</div>
+
+---
+class: center, middle
+
+# What is a representation of property X?
+
+<div class="centered">
+<img src="img/palmer-1999-representation-types.jpg" height=500px>
+</div>
+
+---
+class: center, middle
+
+# Modeling the unseen environment
+
+<div class="centered">
+<img src="http://1.bp.blogspot.com/-zbl8jqkg9hI/UPke9-U6WfI/AAAAAAAAAas/fmY43tNF6Is/s1600/200px-Kanizsa_triangle.svg.png" height=400px>
+</div>
+
+### [Kanisza](https://en.wikipedia.org/wiki/Gaetano_Kanizsa) triangle
+
+---
+class: center, middle
+
+# [Necker cube](https://en.wikipedia.org/wiki/Necker_cube) with illusory contours
+
+<div class="centered">
+<img src="http://www.socsci.uci.edu/~ddhoff/subjnecker.gif" height=450px>
+</div>
+
+---
+class: center, middle
+
+# Impossible figure
+
+<div class="centered">
+<img src="http://vrf.wpengine.netdna-cdn.com/wp-content/uploads/2014/03/impossible-objects-02.jpg" height=450px>
+</div>
+
+---
+class: center, middle
+
+# Inspired by M.C. Escher.
+
+<a href="https://en.wikipedia.org/wiki/M._C._Escher">
+<img src="https://upload.wikimedia.org/wikipedia/en/e/e8/Escher_Waterfall.jpg" height=500px>
+</a>
+
+---
+class: center, middle
+
+# Bottom-up vs. top-down
+
+<img src="http://www.psywww.com/gst/zz%20thecat.png"/>
+
+---
+class: center
+
+# What must (sighted) animals do?
+
+--
+## Find food
+
+--
+## Find mates
+
+--
+## Avoid predators
+
+---
+class: center
+# How does vision help them do these things?
+
+--
+## What is it?
+
+--
+## Where is it located or moving?
+
+--
+## How should I respond?
+
+---
+class: center
+# How does vision arise?
+
+--
+## Empiricism vs. nativism
+
+--
+## Are 'maturational' accounts nativist?
+
+---
+class: center, middle
+
+<img src="https://cdn-images-1.medium.com/max/800/1*q7-pmQwWmateR7jGjmIeCQ.jpeg"/>
+
+---
+class: center, middle
+
+# Are parsimonious accounts necessarily better?
+
+<img src="https://i0.wp.com/theethicalskeptic.com/wp-content/uploads/2013/06/c9fhzhxuwaa_dco-large.jpg?resize=552%2C290&ssl=1"/>
+
+---
+class: center
+# Classical theories of vision
+
+## "Why do things look as they do?" (Koffka, 1935)
+
+--
+### A: [*Structuralism*](https://en.wikipedia.org/wiki/Structuralism_(psychology): "The (world/visual nervous system) is that way."
+
+--
+### A: *Empiricism vs. nativism*: "We (learn to/were born to) see them that way."
+
+--
+### A: *Atomism vs. holism*: "Because of the way (each small piece/the whole visual field) appears."
+
+--
+### A: *Introspection vs. behavior*: "How things *look* matters (more/less) than what we *do* with the information."
+    
+---
+
+# Theoretical approaches and their champions
+
+## Gestaltism, [Max Wertheimer](https://en.wikipedia.org/wiki/Max_Wertheimer)
+
+<img src="https://yusylvia.files.wordpress.com/2010/03/gestalt_illustration-01.jpg" width=900px>
+
+Holism, emergent properties, psychophysiological isomorphism, physical Gestalt
+
+---
+# Theoretical approaches and their champions
+
+## Ecological optics, [James J. Gibson](https://en.wikipedia.org/wiki/James_J._Gibson)
+
+<div class="center">
+<img src="http://www.csus.edu/indiv/w/wickelgren/psyc103/opticarray.jpg" height=350px>
+</div>
+
+Ambient optic array, information pickup, direct perception
+
+---
+class: center, middle
+
+# What is first-person visual experience actually like?
+
+
+Gilmore, R.O., Raudies, F., Franchak, J. & Adolph, K. (2015). Understanding the development of motion processing by characterizing optic flow experienced by infants and their mothers. Databrary. Retrieved January 19, 2018 from http://doi.org/10.17910/B7.116
+
+---
+class: center, middle
+
+<video controls>
+  <source height=450px src="https://nyu.databrary.org/slot/7739/0,26634/asset/16747/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+---
+# Theoretical approaches and their champions
+
+## Constructivism, [Herman von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz)
+
+<img src="https://www.edge.org/images/gig.jpg" width=900px>
+
+Unconscious inference, likelihood principle (~ Gestalt Pragnanz), heuristics
+
+e.g., concavity vs. convexity a function of luminance + direction of illumination
+
+---
+class: center
+# A 'Helmholtzian' demonstration of 'unconscious inference'
+
+## Saccade
+
+## Move eye with finger
+
+## Why 'visual stability' in one case, not the other?
+
+---
+class: center
+# Four stages of visual perception
+## (Spatio-temporal structure of events, objects, entities in the world...)
+## Image-based
+## Surface-based
+## Object-based
+## Category-based
+
+---
+class: center, middle
+
+<img src="img/palmer-1999-visual-info-processing.jpg" height=500px>
+
+---
+class: center
+# Hierarchical + parallel processing
+
+<div class="center">
+<img src="https://mechanism.ucsd.edu/gall/wh-wh-cs.jpg" height=450px>
+</div>
+
+---
+class: inverse, center, middle
+
+# Break time
+
+---
+class: inverse, center,  middle
+
+# Methods in vision research
+
+---
+class: center, middle
+
+# Psychophysical methods
+
+## Measuring thresholds
+## Signal detection theory
+## Difference thresholds
+## Psychophysical scaling
+
+---
+class: center, middle
+
+<img src="http://www.centerforworklife.com/cfwl-content/uploads/2013/02/canyouhmn.jpg"/>
+
+---
+class: center
+# Measuring ([absolute/detection](https://en.wikipedia.org/wiki/Absolute_threshold)) thresholds
+
+<img src="https://betanews.com/wp-content/uploads/2013/12/Future-threshold.jpg" height=500px>
+
+---
+class: center
+# Gustav Fechner's (1860) methods
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Gustav_Fechner.jpg" height=200px/>
+
+## Method of adjustment
+
+## Method of limits
+
+## Method of constant stimuli (constants)
+
+---
+class: center
+
+# Method of adjustment
+
+<img src="http://petergowesky.com/wp-content/uploads/2014/07/volume-knob-wallpapers_17585_1600x1200.jpg" height=500px>
+
+---
+class: center
+
+# Method of limits
+
+## Psychophysical staircases a kind of method of limits
+
+<p><a href="https://en.wikipedia.org/wiki/File:Method_of_limits.png#/media/File:Method_of_limits.png"><img src="https://upload.wikimedia.org/wikipedia/en/d/d3/Method_of_limits.png" alt="Method of limits.png"></a><br><a href="https://creativecommons.org/licenses/by-sa/2.5/" title="Creative Commons Attribution-ShareAlike 2.5">CC BY-SA 2.5</a>, <a href="https://en.wikipedia.org/w/index.php?curid=9878731">Link</a></p>
+
+---
+class: center
+
+# Method of constants
+
+<img src="https://github.com/gilmore-lab/child-motion-psychophysics/blob/master/group-analysis-child_files/figure-markdown_github/coh-by-pattern-and-age-plot-1.png?raw=true" height=450px>
+
+Gilmore, R.O., Seisler, A., Shade, M., O’Neill, M. (2017, April). School-age children perceive fast radial optic flow in noise more accurately than slow linear flow. Poster presentation at the Society for Research in Child Development, Austin, TX. [PDF](https://github.com/gilmore-lab/child-motion-psychophysics/blob/master/pubs/srcd-17-poster/gilmore-seisler-shade-oneill-srcd-2017.pdf). [Databrary](http://nyu.databrary.org/volume/218). [GitHub](https://github.com/gilmore-lab/moco-3-pattern-psychophysics/tree/master/child-motion-psychophysics).
+
+---
+class: center, inverse
+
+# Your turn
+
+## Pros and cons of method of adjustment?
+
+## Pros and cons of method of limits?
+
+## Pros and cons of method of constants?
+
+---
+class: center
+# Psychometric functions
+
+## Fitting psychometric functions is goal of psychophysical methods.
+
+## Relates percent (proportion) detections vs. magnitude of some perceptual variable (brightness, contrast, motion speed, direction, etc...)
+
+---
+class: center
+# Psychometric functions
+
+## Usually on $[0,100]$ or $[0,1]$ scale.
+
+## Often curvlinear, monotonic (increasing) functions of stimulus intensity
+
+## $P(respond) = f(stimulus, observer, situation,...)$
+
+## Analysis often focuses on *threshold* responses: detect (yes/no) or discriminate (same/different)
+
+---
+class: center
+## Hecht et al. experiment
+
+Hecht, S., Shlaer, S., & Pirenne, M. H. (1942). Energy, Quanta, and vision. *The Journal of General Physiology*, *25*(6), 819–840. jgp.rupress.org. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/19873316
+ 
+What is the minimum quantity of light that can be reliably detected by human observers?
+
+---
+class: center, middle
+
+```{r km_fig_1.2, echo=FALSE}
+library(MPDiR)
+data(HSP)
+HSP %>% ggplot() +
+  aes(x = Q, p, color=Run, shape=Obs) +
+  geom_point() +
+  xlab("Quanta") +
+  ylab("% 'seen'")
+```
+
+Knoblauch, K., & Maloney, L. T. (2012). *Modeling Psychophysical Data in R*. Springer Science & Business Media. Chapter 1.
+
+---
+class: center, middle
+
+```{r km_fig, echo=FALSE}
+HSP %>% ggplot() +
+  aes(x = Q, p, color=Run) +
+  geom_point() +
+  facet_grid(. ~ Obs) +
+  xlab("Quanta") +
+  ylab("% detected")
+```
+
+Knoblauch, K., & Maloney, L. T. (2012). *Modeling Psychophysical Data in R*. Springer Science & Business Media. Chapter 1.
+
+---
+class: center
+# How to model these data?
+
+```{r}
+str(HSP)
+```
+
+- Predictors (independent variables, IVs)
+    - Quanta (Q), Number replications (N), Run, Observer (Obs)
+- Responses (dependent variables, DVs)
+    - % seen (p)
+- *Notice*: Quanta are log-distributed
+
+---
+class: center
+# One approach
+
+$$P[yes]=\Phi(\frac{Q-Q_{0.5}}{\sigma})$$
+
+where $Q_{0.5}$ is the # of quanta that yields 50% responding, and $\sigma$ determines the 'slope' of the function.
+
+The cumulative normal (Gaussian) distribution is one type of function $\Phi$ that has the 'S' shape we want. There are others.
+
+With a bit of algebra, we can "linearize" this into a familiar form 
+
+$$\Phi^{-1}(E[R])=\frac{Q-Q_{0.5}}{\sigma}=\beta_0+\beta_1Q$$
+
+where the $E[R]$ are (0,1) responses, $B_0=-Q_{0.5}/\sigma$ and $B_1=\sigma^{-1}$. 
+
+Knoblauch, K., & Maloney, L. T. (2012). *Modeling Psychophysical Data in R*. Springer Science & Business Media. Chapter 1.
+
+---
+class: center, middle
+
+## Another approach
+
+Example adapted from <https://tomwallis.info/2014/05/06/simulating-data/>
+
+```{r wallis_sim, echo=FALSE}
+subjects <- paste0("S", 1:5)
+contrasts <- exp(seq(-6, -1, l = 7))
+sfs <- exp(seq(log(0.5), log(40), l = 5))
+target_sides <- c("left", "right")
+n_trials <- 20
+
+dat <- expand.grid(subject = subjects, contrast = contrasts, sf = sfs, target_side = target_sides, 
+    trial = 1:n_trials)
+dat$sf_factor <- factor(round(dat$sf, digits = 2))
+
+X <- model.matrix(~log(contrast) + sf_factor, data = dat)
+b0 <- rnorm(length(subjects), mean = 7, sd = 0.2)  # intercept
+b1 <- rnorm(length(subjects), mean = 2, sd = 0.2)  # slope of contrast
+b2 <- rnorm(length(subjects), mean = 2, sd = 0.2)  # sf 1.5
+b3 <- rnorm(length(subjects), mean = 1.5, sd = 0.2)  # sf 4.4
+b4 <- rnorm(length(subjects), mean = 0, sd = 0.2)  # sf 13
+b5 <- rnorm(length(subjects), mean = -2, sd = 0.2)  # sf 40
+betas <- matrix(c(b0, b1, b2, b3, b4, b5), nrow = 5)
+
+eta <- rep(NA, length = nrow(dat))
+for (i in 1:length(subjects)) {
+    # for each subject
+    this_subj <- levels(dat$subject)[i]  # which subject?
+    subj_rows <- dat$subject == this_subj  # which rows belong to this subject?
+ 
+    # create a design matrix, and pull out the betas for this subject:
+    this_X <- model.matrix(~log(contrast) + sf_factor, data = dat[subj_rows, 
+        ])
+    this_betas <- betas[i, ]
+ 
+    # mult, stick into eta:
+    eta[subj_rows] <- this_X %*% this_betas
+}
+ 
+# stick eta into dat:
+dat$eta <- eta
+set.seed(424242)
+
+links <- mafc.weib(2)  # creates a list of functions
+ 
+dat$p <- links$linkinv(dat$eta) 
+fig <- ggplot(dat, aes(x = contrast, y = p)) + geom_line() + facet_grid(sf_factor ~ 
+    subject) + coord_cartesian(ylim = c(0.45, 1.05)) + scale_x_log10() + scale_y_continuous(breaks = c(0.5, 
+    0.75, 1)) + theme_minimal()
+fig
+```
+
+---
+class: center, middle
+
+$$ p(respond)=\beta_0 + \beta_1log(contrast) + spatialfreq $$
+
+---
+class: center, middle
+
+```{r plot_b0, echo=FALSE}
+hist(b0, main = "Intercept")
+```
+
+---
+class: center, middle
+
+```{r plot_b1, echo=FALSE}
+hist(b1, main = "Contrast slope")
+```
+
+---
+class: center, middle
+
+<img src="http://www.stonesc.com/pubs/Contrast%20Metrics_files/image006.jpg">
+
+Sensitivity increases with increasing contrast, and there are different "baseline" levels that vary by spatial frequency (peak in middle).
+
+---
+class: center
+# Psychophysical functions
+
+## What is the best *statistical* model of the decision process?
+
+## [Logit](https://en.wikipedia.org/wiki/Logit), [probit](https://en.wikipedia.org/wiki/Probit), [Weibull](https://en.wikipedia.org/wiki/Exponentiated_Weibull_distribution) distributions commonly used
+
+## Same issues apply here as with GLMs in other contexts (fixed vs. random effects; variables nominal/ordinal/interval/continuous; goodness-of-fit; etc.)
+
+---
+class: inverse
+# Your turn
+## Pros and cons of estimating psychophysical functions?
+## Prerequisites for estimating psychophysical functions?
+## Utility of fitting behavioral functions?
+
+---
+class: center
+
+# [Signal detection theory](https://en.wikipedia.org/wiki/Detection_theory)
+
+|             | Signal present | Signal absent     |
+|-------------|----------------|-------------------|
+| Respond Yes | Hit            | False Alarm       |           
+| Respond No  | Miss           | Correct rejection |
+
+$p(Hit) + p(Miss)=1$, $p(False Alarm) + p(Correct Rejection)=1$
+
+---
+class: center, middle
+
+<img src="https://4.bp.blogspot.com/-wmZzvsY_Tec/Vws0f4MJn9I/AAAAAAAAORs/gipKxA7aDboP0gx2vSmyQS_ZoVBPzqaWA/s1600/Type%2BI%2Band%2BII%2Berror.jpg">
+
+## Goal: Minimize both (== maximize Hits & Correct Rejections)!
+
+---
+class: center
+
+# Similar logic applies in medicine
+
+<img src="http://i.imgur.com/xjCetVL.png">
+
+High *sensitivity* and *specificity* desired.
+
+---
+class: center, middle
+
+```{r, echo=FALSE, SDT_plot}
+opar <- par(mfrow = c(1,2), lwd = 3)
+x <- seq(-3, 5, len=300)
+plot(x, dnorm(x), type = "l", ylim = c(0, 0.45), cex.axis = 1.5,
+     cex.lab = 1.3)
+lines(x, dnorm(x, mean = 2))
+arrows(0, dnorm(0) + 0.01, 2, dnorm(0) + 0.01, angle = 90,
+       code = 3, length = 0.05)
+text(1, dnorm(0) + 0.0375, "d'", cex = 1.8)
+segments(0, 0, 0, dnorm(0), lty = 3)
+segments(2, 0, 2, dnorm(0), lty = 3)
+mtext("a", side = 3, cex = 2, adj = 0, line = 0.5)
+plot(x, dnorm(x), type = "l", ylim = c(0, 0.45), cex.axis = 1.5,
+     cex.lab = 1.3)
+lines(x, dnorm(x, mean = 2, sd = 1.4)*1.4)
+mtext("b", side = 3, cex = 2, adj = 0, line = 0.5)
+par(opar)
+```
+
+Knoblauch, K., & Maloney, L. T. (2012). *Modeling Psychophysical Data in R*. Springer Science & Business Media. Chapter 3, p. 65.
+
+---
+# Gaussian SDT
+
+- "Noise" distribution, "Signal" distribution offset by $d'$; variances of signal and noise distribution equal (or not)
+- Q: Given internal signal strength $d'$ and signal $X_i$, what decision rule maximizes $p(corr)$?
+
+    - A: Observer sets a criterion ($/beta$) & responds "yes" when $X_i>=
+    \beta$ it
+    - A: Observer may have a 'bias' that shifts the criterion
+---
+class: center, middle
+
+<a href="https://doi.org/10.3389/fpsyg.2015.00762">
+<img src="https://www.frontiersin.org/files/Articles/147101/fpsyg-06-00762-HTML/image_m/fpsyg-06-00762-g001.jpg">
+</a>
+
+Anderson, N. D. (2015). Teaching signal detection theory with pseudoscience. *Frontiers in Psychology*, *6*, 762. Retrieved from http://dx.doi.org/10.3389/fpsyg.2015.00762
+
+---
+
+(A) Response matrix of all signal-response combinations that can be made in a binary decision task. Green indicates correct decision, red indicates incorrect decision. (B) Proportions of hits and misses represented under the signal distribution. β reflects the subject criterion, $c$ reflects bias, and $d'$ reflects sensitivity which represents the difference in position between the two distributions. (C) Proportions of false alarms and correct rejections represented under the noise distributions. (D) A condition which hypothetically reflects low subject sensitivity. When the distributions are closer together (i.e., $d'$ is smaller), the difference between the proportion of hits and false alarms is lower. (E) A condition which reflects high subject sensitivity. When the distributions are farther apart (i.e., $d'$ is larger), the difference between the proportion of hits and false alarms is higher.
+
+Anderson, N. D. (2015). Teaching signal detection theory with pseudoscience. *Frontiers in Psychology*, *6*, 762. Retrieved from http://dx.doi.org/10.3389/fpsyg.2015.00762
+
+---
+# SDT in your (frequentist, traditional, null hypothesis significance testing) psychological life
+
+|              | Effect ≠ 0     | Effect ~= 0       |
+|--------------|----------------|-------------------|
+| Reject $H_0$ | Hit            | False Alarm       |           
+| Don't reject $H_0$ | Miss     | Correct rejection |
+
+Maximizing correct decisions means minimizing *False Alarms* (small $\alpha$; aka Type I errors) 
+
+AND 
+
+minimizing *Misses* (small $\beta$, aka Type II errors) or maximizing 'power' (1- $\beta$) or *Hits*.
+
+---
+# Mentioning in passing...
+
+## Receiver Operating Characteristic (ROC) curves
+
+<img src="http://notmatthancock.github.io/images/roc-2.png">
+
+---
+class: inverse
+
+# Your turn
+
+### Why might an observer choose a liberal decision criterion? A conservative one?
+
+### How realistic is the assumption that the 'noise' and 'signal' distributions have the same $\sigma$? What can experimenters realistically manipulate or measure?
+
+### Does the link between SDT, perceptual research, medical diagnosis, and NHST reasoning make sense?
+
+---
+class: center
+
+# Absolute thresholds
+
+```{r, echo=FALSE}
+HSP %>% ggplot() +
+  aes(x = Q, p, color=Run) +
+  geom_point() +
+  facet_grid(. ~ Obs) +
+  xlab("Quanta") +
+  ylab("% detected")
+```
+
+---
+class: center
+
+# vs. Difference thresholds
+
+```{r}
+parrots <- load.image(system.file('extdata/parrots.png',package='imager'))
+plot(parrots)
+```
+
+---
+class: center, middle
+
+# Standard
+
+```{r, echo=FALSE}
+g_parrots <- grayscale(parrots)
+plot(g_parrots)
+```
+
+---
+class: center, middle
+
+# Test
+
+```{r parrots_00625, echo=FALSE}
+g_parrots_2 <- abs(g_parrots-.00625)
+plot(g_parrots_2)
+```
+
+---
+class: center, middle
+
+# Standard
+
+```{r, echo=FALSE}
+g_parrots <- grayscale(parrots)
+plot(g_parrots)
+```
+
+---
+class: center, middle
+
+# Test
+
+```{r parrots_0125, echo=FALSE}
+g_parrots_2 <- abs(g_parrots-.0125)
+plot(g_parrots_2)
+```
+
+---
+class: center, middle
+
+# Standard
+
+```{r, echo=FALSE}
+plot(g_parrots)
+```
+
+---
+class: center, middle
+
+# Test
+
+```{r parrots_025, echo=FALSE}
+g_parrots_2 <- abs(g_parrots-.025)
+plot(g_parrots_2)
+```
+
+---
+class: center, middle
+
+# Standard
+
+```{r, echo=FALSE}
+plot(g_parrots)
+```
+
+---
+class: center, middle
+
+# Test
+
+```{r parrots_05, echo=FALSE}
+g_parrots_2 <- abs(g_parrots-.05)
+plot(g_parrots_2)
+```
+
+---
+class: center, middle
+
+# Standard
+
+```{r, echo=FALSE}
+plot(g_parrots)
+```
+
+---
+class: center, middle
+
+# Test
+
+```{r parrots_10, echo=FALSE}
+g_parrots_2 <- abs(g_parrots-.10)
+plot(g_parrots_2)
+```
+
+---
+class: center, middle
+
+# Standard
+
+```{r, echo=FALSE}
+plot(g_parrots)
+```
+
+---
+class: center, middle
+
+# Test
+
+```{r parrots_20, echo=FALSE}
+g_parrots_2 <- abs(g_parrots-.20)
+plot(g_parrots_2)
+```
+
+---
+# Just-noticeable Difference (JND)
+
+### Smallest reliably detected change in stimulus property
+
+### (Max) Weber's Fraction $k$ -> (Gustav) Fechner's Law
+
+$$ \frac{\Delta I}{I}=k $$ 
+or 
+$$log(\Delta I)-log(I)=log(k) $$
+
+---
+class: center
+# Psychophysical scaling
+
+## Assign numeric ratings to perceived qualities (Stevens)
+
+---
+class: center, middle
+
+<img src="http://www.intropsych.com/ch04_senses/04stevenscurves.jpg" height=500px>
+
+$$ \Psi(I)=kI^\alpha $$
+
+Not all scaling relations are logrhythmic, but most are curvlinear!
+
+---
+# Summing up
+
+## Perceptual theories at the core of psychology
+
+## Perceptual methods at the core of psychology
+
+---
+# Next time...
+
+## The retinal image
+
+---
+class: center, middle
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan). Rendered HTML and supporting files are pushed to GitHub where GitHub's 'pages' feature is used to host and serve the course website.
