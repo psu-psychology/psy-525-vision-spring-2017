@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>2018-01-29 The retinal image</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Rick Gilmore" />
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# 2018-01-29 The retinal image
+## PSY 525.001 • Vision Science • 2018 Spring
+### Rick Gilmore
+### 2018-01-22 12:03:46
+
+---
+
+
+
+
+---
+
+# Today's topics
+
+--
+## The retinal image
+
+--
+## Discuss Fourier analysis, esp. Campbell &amp; Robson 1968.
+
+---
+class: center, middle, inverse
+
+# The retinal image
+
+---
+class: center, middle
+
+# Human retina
+
+&lt;img src="http://webvision.med.utah.edu/imageswv/Sagschem.jpeg"/&gt;
+
+&lt;http://webvision.med.utah.edu/&gt;
+---
+
+class: center, middle
+
+&lt;img src="http://webvision.med.utah.edu/imageswv/schem.jpeg"/&gt;
+
+&lt;http://webvision.med.utah.edu/&gt;
+
+---
+class: center, middle
+
+## Ganglion cell response properties differ across cells
+
+## Individual response function of stimulus location, size
+
+## On- and off-center cells
+
+## Receptive fields have *center-surround* structure, due to *lateral inhibition*
+
+---
+class: center, middle
+
+&lt;p&gt;&lt;a href="https://commons.wikimedia.org/wiki/File:Receptive_field.png#/media/File:Receptive_field.png"&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Receptive_field.png" alt="Receptive field.png"&gt;&lt;/a&gt;&lt;br&gt;By original uploaded to en by &lt;a href="//commons.wikimedia.org/wiki/User:Delldot" title="User:Delldot"&gt;user:delldot&lt;/a&gt;, modified by &lt;a href="//commons.wikimedia.org/w/index.php?title=User:Xoneca&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Xoneca (page does not exist)"&gt;Xoneca&lt;/a&gt; - &lt;span class="int-own-work" lang="en" xml:lang="en"&gt;Own work&lt;/span&gt;, Public Domain, &lt;a href="https://commons.wikimedia.org/w/index.php?curid=5714283"&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+
+---
+class: center, middle
+
+&lt;img src="http://webvision.med.utah.edu/imageswv/catwir1.jpeg"&gt;
+
+photoreceptors -&gt; horizontal cells; photoreceptors + horizontal cells -&gt; bipolar cells; bipolar cells -&gt; amacrine + ganglion cells; bipolar + amacrine -&gt; ganglion cells
+
+---
+class: center, middle
+
+&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Human_visual_pathway.svg/2000px-Human_visual_pathway.svg.png"&gt;
+
+## Retina -&gt; Lateral Geniculate Nucleus (LGN) of thalamus
+
+---
+class: center, middle
+
+&lt;img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide6.jpg"&gt;
+
+---
+class: center, middle
+
+&lt;img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide7.jpg"&gt;
+
+## Parvocellular (small cell) and magnocellular (large cell) layers
+
+## Inputs from ipsilateral (2, 3, 5) and contralateral (1, 4, 6) eye separate by layer
+
+## Retinal geometry aligned
+
+---
+class: center, middle
+
+# Magno vs. parvo LGN cells
+
+| Characteristic       | Parvo | Magno |
+|----------------------|-------|-------|
+| Color sensitivity    | High  | Low   |
+| Contrast sensitivity | Low   | High  |
+| Spatial resolution   | High  | Low   |
+| Temporal resolution  | Slow  | Fast  |
+| Receptive field size | Small | Large |
+
+Palmer Table 4.1.1
+
+---
+class: center, middle
+
+# Visual cortex
+
+&lt;img src="http://hubel.med.harvard.edu/book/96.jpg"&gt;
+
+Striate cortex (stria of Gennari), V1, area 17
+
+---
+class: center, middle
+
+&lt;img src="http://hubel.med.harvard.edu/book/97.jpg"&gt;
+
+---
+class: center, middle
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IOHayh06LJ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+class: center, middle
+## Center-surround cells rare
+
+## Simple cells, complex cells, &amp; hypercomplex cells were elongated
+
+---
+class: center, middle
+
+&lt;img src="https://i.stack.imgur.com/k7w8a.png" height=500px&gt;
+
+## Simple cells
+
+---
+class: center, middle
+## Orientation (angular) selectivity
+
+&lt;img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide15.jpg"&gt;
+
+---
+class: middle
+## Complex cells nonlinear, motion sensitive, position invariance, spatially extended
+
+&lt;img src="http://fourier.eng.hmc.edu/e180/lectures/figures/simplecell.gif"&gt;
+
+---
+class: center, middle
+## Hypercomplex (end-stopped) cells
+
+&lt;img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Hypercomplex_Cell.pdf/page1-1169px-Hypercomplex_Cell.pdf.jpg"&gt;
+
+
+
+---
+class: center, middle
+
+&lt;img src="https://cdn-images-1.medium.com/max/1600/1*YBRgHpwpH8loHlh9PW1tqg.png"&gt;
+
+## Cortical magnification
+
+---
+class: center, middle
+
+&lt;img src="http://cns.bu.edu/~arash/animation.gif"&gt;
+
+---
+class: center, middle
+
+&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Retinotopic_English.jpg/1200px-Retinotopic_English.jpg"&gt;
+
+## Retinotopy
+
+---
+class: center, middle
+
+&lt;img src="https://pachouinard.files.wordpress.com/2015/11/retinotopy.jpg"&gt;
+
+---
+class: center, middle
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HCLgh9AwvrQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+Zhuang, J., Ng, L., Williams, D., Valley, M., Li, Y., Garrett, M., &amp; Waters, J. (2017). An extended retinotopic map of mouse cortex. eLife, 6. Retrieved from http://dx.doi.org/10.7554/eLife.18372
+
+---
+class: center, middle
+
+&lt;img src="https://classconnection.s3.amazonaws.com/737/flashcards/1944737/png/ocular_dominance-1417BBEAF0A21B6A361.png"/&gt;
+
+## Ocular dominance
+
+---
+class: center, middle
+
+&lt;img src="http://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis_3d.jpg"&gt;
+
+## Cortical hypercolumn
+
+---
+class: center
+
+# Aspects of the retinal-&gt; V1 image
+
+## Topographic, but non-uniform
+
+## Functionally segregated (on/off center, wavelength, eye of origin)
+
+---
+class: center, middle, inverse
+
+# Break time
+
+---
+class: center, middle, inverse
+
+# Spatial frequency analysis
+
+&lt;img src="http://www.ucalgary.ca/pip369/files/pip369/sine-wave.jpg"&gt;
+
+---
+class: middle
+
+&lt;!-- `$$i(x)=sin(2\pi fx+\theta)$$` --&gt;
+
+```r
+pix_per_img &lt;- 100
+x &lt;- (1:pix_per_img)/pix_per_img  # Make x on (0,1]
+cyc_per_img &lt;- 2                  # spatial frequency f
+phase &lt;- 0
+one_row &lt;- sin(2*pi*cyc_per_img*x + phase)
+plot(one_row)
+```
+
+![](2018-01-29-retinal-image_files/figure-html/unnamed-chunk-1-1.png)&lt;!-- --&gt;
+
+---
+class: middle
+
+
+```r
+sin_array &lt;- array(rep(one_row, pix_per_img), 
+                   dim = c(pix_per_img, pix_per_img))
+sin_img &lt;- as.cimg(sin_array) # Nice image format from package imager
+plot(sin_img)
+```
+
+![](2018-01-29-retinal-image_files/figure-html/unnamed-chunk-2-1.png)&lt;!-- --&gt;
+
+---
+class: middle
+
+```r
+vertical_grating &lt;- function(pix_per_img=100, cyc_per_img=1, phase=0){
+  x &lt;- (1:pix_per_img)/pix_per_img 
+  one_row &lt;- sin(2*pi*cyc_per_img*x + phase)
+  as.cimg(array(rep(one_row, pix_per_img), 
+                   dim = c(pix_per_img, pix_per_img)))
+}
+```
+
+---
+class: middle
+
+
+```r
+plot(vertical_grating(cyc_per_img = 10))
+```
+
+![](2018-01-29-retinal-image_files/figure-html/unnamed-chunk-4-1.png)&lt;!-- --&gt;
+
+---
+class: center, middle
+
+
+
+---
+class: center, middle
+
+## What is Fourier analysis?
+
+## Why is it useful and important for vision science?
+
+## Why is it useful and important for other areas of psychological or neural science?
+
+---
+# Next time...
+
+---
+class: center, middle
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan). Rendered HTML and supporting files are pushed to GitHub where GitHub's 'pages' feature is used to host and serve the course website.
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {window.dispatchEvent(new Event('resize'));});
+(function() {var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler"); if (!r) return; s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }"; d.head.appendChild(s);})();</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
