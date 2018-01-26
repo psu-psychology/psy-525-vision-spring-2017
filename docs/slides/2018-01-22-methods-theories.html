@@ -14,22 +14,16 @@ class: center, middle, inverse, title-slide
 # 2018-01-22 Methods &amp; Theories
 ## PSY 525.001 • Vision Science • 2018 Spring
 ### Rick Gilmore
-### 2018-01-19 12:19:59
+### 2018-01-22 17:54:04
 
 ---
 
 
 
-
----
 
 # Today's topics
 
---
-
 ## Theoretical approaches to vision
-
---
 
 ## Methods in vision research
 
@@ -39,24 +33,6 @@ class: center, middle, inverse, title-slide
 
 - Why vision science matters to other areas of cognition
 - How vision (or perceptual methods) affect other areas of behavioral science
-
----
-class: center, middle
-
-## Seminal events 
-
-&lt;div class="centered"&gt;
-&lt;img src="https://images-na.ssl-images-amazon.com/images/I/31QrGNV7XCL._SX258_BO1,204,203,200_.jpg" height=500px&gt;
-&lt;/div&gt;
-
----
-class: center, middle
-
-## Seminal events 
-
-&lt;div class="centered"&gt;
-&lt;img src="http://www.psych.wright.edu/~kbennett/assets/images/Gibson.jpg" height=500px&gt;
-&lt;/div&gt;
 
 ---
 
@@ -239,7 +215,7 @@ class: center
 
 --
 ### A: *Introspection vs. behavior*: "How things *look* matters (more/less) than what we *do* with the information."
-    
+
 ---
 
 # Theoretical approaches and their champions
@@ -266,7 +242,6 @@ class: center, middle
 
 # What is first-person visual experience actually like?
 
-
 Gilmore, R.O., Raudies, F., Franchak, J. &amp; Adolph, K. (2015). Understanding the development of motion processing by characterizing optic flow experienced by infants and their mothers. Databrary. Retrieved January 19, 2018 from http://doi.org/10.17910/B7.116
 
 ---
@@ -276,7 +251,6 @@ class: center, middle
   &lt;source height=450px src="https://nyu.databrary.org/slot/7739/0,26634/asset/16747/download?inline=true" type="video/mp4"&gt;
 Your browser does not support the video tag.
 &lt;/video&gt;
-
 
 ---
 # Theoretical approaches and their champions
@@ -338,7 +312,7 @@ class: center, middle
 
 ## Measuring thresholds
 ## Signal detection theory
-## Difference thresholds
+## Absolute vs. Difference thresholds
 ## Psychophysical scaling
 
 ---
@@ -412,13 +386,19 @@ class: center
 class: center
 # Psychometric functions
 
-## Usually on `\([0,100]\)` or `\([0,1]\)` scale.
+Usually on `\([0,100]\)` or `\([0,1]\)` scale.
 
-## Often curvlinear, monotonic (increasing) functions of stimulus intensity
+--
 
-## `\(P(respond) = f(stimulus, observer, situation,...)\)`
+Often curvlinear, monotonic (increasing) functions of stimulus intensity
 
-## Analysis often focuses on *threshold* responses: detect (yes/no) or discriminate (same/different)
+--
+
+`\(P(respond) = f(stimulus, observer, situation,...)\)`
+
+--
+
+Analysis often focuses on *threshold* responses: detect (yes/no) or discriminate (same/different)
 
 ---
 class: center
@@ -443,7 +423,6 @@ class: center, middle
 Knoblauch, K., &amp; Maloney, L. T. (2012). *Modeling Psychophysical Data in R*. Springer Science &amp; Business Media. Chapter 1.
 
 ---
-class: center
 # How to model these data?
 
 
@@ -573,8 +552,8 @@ Knoblauch, K., &amp; Maloney, L. T. (2012). *Modeling Psychophysical Data in R*.
 - "Noise" distribution, "Signal" distribution offset by `\(d'\)`; variances of signal and noise distribution equal (or not)
 - Q: Given internal signal strength `\(d'\)` and signal `\(X_i\)`, what decision rule maximizes `\(p(corr)\)`?
 
-    - A: Observer sets a criterion ($/beta$) &amp; responds "yes" when $X_i&gt;=
-    \beta$ it
+    - A: Observer sets a criterion ($\beta$) &amp; responds "yes" when $X_i&gt;=
+    \beta$
     - A: Observer may have a 'bias' that shifts the criterion
 ---
 class: center, middle
@@ -742,7 +721,8 @@ $$log(\Delta I)-log(I)=log(k) $$
 class: center
 # Psychophysical scaling
 
-## Assign numeric ratings to perceived qualities (Stevens)
+## Given 'anchor' or comparison stimulus...
+## Assign *numeric* ratings to perceived qualities (Stevens)
 
 ---
 class: center, middle
@@ -751,7 +731,31 @@ class: center, middle
 
 $$ \Psi(I)=kI^\alpha $$
 
-Not all scaling relations are logrhythmic, but most are curvlinear!
+Not all scaling relations are logarithmic, but most are curvlinear!
+
+---
+class: center, middle
+
+## *Local* psychophysics ([Luce &amp; Krumhansl, 1988](http://www.socsci.uci.edu/~rdluce/bio/pre1990/1988/Luce-Krumhansl_Book%20Chapter_1988.pdf))
+
+Stimulus changes *"small enough to cause confusions among stimuli..."*
+
+## vs. *Global* psychophysics
+
+*"...differences so large that there is no chance whatever of confusions between the extreme signals of the range..."*
+
+---
+class: center, middle
+
+# Core issues:
+
+How to measure psychological states, `\(\Psi\)`?
+
+How to measure physiological states, `\(\Phi\)`?
+
+How to measure world/environment states, `\(W\)`?
+
+How to relate `\({\Psi, \Phi, W}\)` to one another?
 
 ---
 # Summing up
