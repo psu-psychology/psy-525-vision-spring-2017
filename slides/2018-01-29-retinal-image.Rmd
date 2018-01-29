@@ -131,6 +131,13 @@ class: center, middle
 
 ---
 class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8VdFf3egwfg" frameborder="0" allowfullscreen></iframe>
+
+## Mapping visual cortex by hand
+
+---
+class: center, middle
 ## Center-surround cells rare & rarity surprising
 
 ## Simple cells, complex cells, & hypercomplex cells were elongated
