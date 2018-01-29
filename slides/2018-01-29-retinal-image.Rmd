@@ -19,8 +19,6 @@ library(psyphy)
 library(imager)
 ```
 
----
-
 # Today's topics
 
 --
@@ -39,14 +37,14 @@ class: center, middle
 
 # Human retina
 
-<img src="http://webvision.med.utah.edu/imageswv/Sagschem.jpeg"/>
+<img src="http://webvision.med.utah.edu/imageswv/Sagschem.jpeg" height=450px/>
 
 <http://webvision.med.utah.edu/>
 ---
 
 class: center, middle
 
-<img src="http://webvision.med.utah.edu/imageswv/schem.jpeg"/>
+<img src="http://webvision.med.utah.edu/imageswv/schem.jpeg" height=450px/>
 
 <http://webvision.med.utah.edu/>
 
@@ -64,7 +62,7 @@ class: center, middle
 ---
 class: center, middle
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Receptive_field.png#/media/File:Receptive_field.png"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Receptive_field.png" alt="Receptive field.png"></a><br>By original uploaded to en by <a href="//commons.wikimedia.org/wiki/User:Delldot" title="User:Delldot">user:delldot</a>, modified by <a href="//commons.wikimedia.org/w/index.php?title=User:Xoneca&amp;action=edit&amp;redlink=1" class="new" title="User:Xoneca (page does not exist)">Xoneca</a> - <span class="int-own-work" lang="en" xml:lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=5714283">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Receptive_field.png#/media/File:Receptive_field.png"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Receptive_field.png" alt="Receptive field.png" height=450px></a><br>By original uploaded to en by <a href="//commons.wikimedia.org/wiki/User:Delldot" title="User:Delldot">user:delldot</a>, modified by <a href="//commons.wikimedia.org/w/index.php?title=User:Xoneca&amp;action=edit&amp;redlink=1" class="new" title="User:Xoneca (page does not exist)">Xoneca</a> - <span class="int-own-work" lang="en" xml:lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=5714283">Link</a></p>
 
 
 ---
@@ -77,19 +75,19 @@ photoreceptors -> horizontal cells; photoreceptors + horizontal cells -> bipolar
 ---
 class: center, middle
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Human_visual_pathway.svg/2000px-Human_visual_pathway.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Human_visual_pathway.svg/2000px-Human_visual_pathway.svg.png" height=450px>
 
 ## Retina -> Lateral Geniculate Nucleus (LGN) of thalamus
 
 ---
 class: center, middle
 
-<img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide6.jpg">
+<img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide6.jpg" height=450px>
 
 ---
 class: center, middle
 
-<img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide7.jpg">
+<img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide7.jpg" height=450px>
 
 ## Parvocellular (small cell) and magnocellular (large cell) layers
 
@@ -98,7 +96,7 @@ class: center, middle
 ## Retinal geometry aligned
 
 ---
-class: center, middle
+class: middle
 
 # Magno vs. parvo LGN cells
 
@@ -110,21 +108,21 @@ class: center, middle
 | Temporal resolution  | Slow  | Fast  |
 | Receptive field size | Small | Large |
 
-Palmer Table 4.1.1
+### Palmer Table 4.1.1
 
 ---
 class: center, middle
 
 # Visual cortex
 
-<img src="http://hubel.med.harvard.edu/book/96.jpg">
+<img src="http://hubel.med.harvard.edu/book/96.jpg" height=450px>
 
-Striate cortex (stria of Gennari), V1, area 17
+Striate cortex (stria of Gennari), V1, (Brodmann) area 17
 
 ---
 class: center, middle
 
-<img src="http://hubel.med.harvard.edu/book/97.jpg">
+<img src="http://hubel.med.harvard.edu/book/97.jpg" height=450px>
 
 ---
 class: center, middle
@@ -133,7 +131,7 @@ class: center, middle
 
 ---
 class: center, middle
-## Center-surround cells rare
+## Center-surround cells rare & rarity surprising
 
 ## Simple cells, complex cells, & hypercomplex cells were elongated
 
@@ -146,21 +144,24 @@ class: center, middle
 
 ---
 class: center, middle
+
+<img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide15.jpg" height=500px>
+
 ## Orientation (angular) selectivity
 
-<img src="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/V1/LGN-V1-slides/Slide15.jpg">
-
 ---
-class: middle
-## Complex cells nonlinear, motion sensitive, position invariance, spatially extended
+class: center, middle
+## Complex cells 
 
-<img src="http://fourier.eng.hmc.edu/e180/lectures/figures/simplecell.gif">
+<img src="http://fourier.eng.hmc.edu/e180/lectures/figures/simplecell.gif" height=400px>
+
+### Nonlinear, motion sensitive, position invariance, spatially extended
 
 ---
 class: center, middle
 ## Hypercomplex (end-stopped) cells
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Hypercomplex_Cell.pdf/page1-1169px-Hypercomplex_Cell.pdf.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Hypercomplex_Cell.pdf/page1-1169px-Hypercomplex_Cell.pdf.jpg" height=500px>
 
 ---
 class: center, middle
@@ -174,12 +175,28 @@ class: center, middle
 
 <img src="http://cns.bu.edu/~arash/animation.gif">
 
+<http://cns.bu.edu/~arash/animation.gif>
+
 ---
 class: center, middle
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Retinotopic_English.jpg/1200px-Retinotopic_English.jpg">
 
 ## Retinotopy
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3_ZuXjxtxU4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Expanding ring/annulus
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tb1Oia-lCEs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Rotating wedge
 
 ---
 class: center, middle
@@ -196,7 +213,7 @@ Zhuang, J., Ng, L., Williams, D., Valley, M., Li, Y., Garrett, M., & Waters, J. 
 ---
 class: center, middle
 
-<img src="https://classconnection.s3.amazonaws.com/737/flashcards/1944737/png/ocular_dominance-1417BBEAF0A21B6A361.png"/>
+<img src="https://classconnection.s3.amazonaws.com/737/flashcards/1944737/png/ocular_dominance-1417BBEAF0A21B6A361.png" height=450px/>
 
 ## Ocular dominance
 
@@ -215,11 +232,6 @@ class: center
 ## Topographic, but non-uniform
 
 ## Functionally segregated (on/off center, wavelength, eye of origin)
-
----
-class: center, middle, inverse
-
-# Break time
 
 ---
 class: center, middle, inverse
@@ -427,8 +439,6 @@ class: center, middle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QbCp5lsrIn4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-or music
-
 ---
 class: center, middle
 # Fourier *analysis* goes in reverse
@@ -542,7 +552,6 @@ to limited ranges of spatial frequencies.
 - [**Gabor patches**](https://www.cogsci.nl/pages/gabor-generator) combine a grating and a Gaussian envelope
 
 ---
-
 <img src="http://www.extreme-eye-exercise.com/images/3.jpg">
 
 Gabor patches as models of V1 simple cells?
