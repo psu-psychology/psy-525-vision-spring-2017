@@ -18,7 +18,12 @@ library(tidyverse)
 library(psyphy)
 library(imager)
 ```
+---
+class: center, middle
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/spUNpyF58BY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
 
 # Today's topics
 
@@ -40,6 +45,32 @@ class: center, middle, inverse
 class: center, middle
 
 <http://psu-psychology.github.io/psy-525-vision-spring-2018/project-proposal.html>
+
+---
+class: center, middle
+
+# Perceiving surfaces orientation (spatial layout)
+
+## Slant, tilt, distance
+
+---
+class: center, middle
+
+<img src="https://www.researchgate.net/profile/Ari_Rosenberg/publication/259201603/figure/fig2/AS:297324476682240@1447899087131/Figure-2-Slant-tilt-representation-of-planar-surface-orientation-A-The-slant-and-tilt.png" width=800px>
+
+---
+class: center, middle
+
+<img src="http://cns-alumni.bu.edu/~slehar/webstuff/pcave/marr.jpg"/>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQCOaEsPn4zZ_ht7Nc_8teEm_cd6IiSQ5Z25_CtDkn7aagdsBF"/>
+
+## Marr's 2.5 D sketch
+
+---
+class: center, middle
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/81oIIqldheL.jpg" height=500px/>
 
 ---
 class: center, middle, inverse
@@ -100,6 +131,13 @@ Reported in Wallach, H., & O’Connell, D. N. (1953). The Kinetic Depth Effect. 
 ---
 class: middle, center
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RdwU28bghbQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Structure from motion
+
+---
+class: middle, center
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bVSaWXqQh0w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Motion parallax
@@ -108,6 +146,7 @@ class: middle, center
 class: middle, center
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEacVpOZ1xk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ---
 class: middle, center
@@ -121,7 +160,51 @@ Where is fixation? What is the direction of motion?
 ---
 class: center, middle
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWDXcrZtkqY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Texture accretion & deletion
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGJYSIBETho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Texture accretion & deletion
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cGIpSHw7evg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+# Optic flow
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V4r2HXGA8jw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Optic flow and autonomous flight
+
+---
+class: center, middle
+
 ## Binocular cues to depth
+
+---
+class: center, middle
+
+## Stereopsis
+
+Perception of depth and 3D structure from stimulation of both eyes
+
+---
+class: center, middle
+
+<img src="https://www.researchgate.net/profile/Johannes_Burge/publication/50907225/figure/fig2/AS:394331463667730@1471027355489/Figure-14-Geometric-and-empirical-horizontal-horopters-Circles-represent-the-left-and.png">
+
+## Horopter
+
+a line or surface containing all those points in space whose images fall on corresponding points of the retinas of the two eyes.
 
 ---
 class: center, middle
@@ -143,6 +226,29 @@ Invented by [Béla Julesz](https://en.wikipedia.org/wiki/B%C3%A9la_Julesz)
 class: center, middle
 
 <img src="https://www.researchgate.net/profile/Matthias_Bethge/publication/221619059/figure/fig1/AS:277371451133956@1443141916054/Figure-1-Left-Example-random-dot-stereogram-RDS-Right-Illustration-of-bincular.png"/>
+
+---
+```{r rds}
+library(imager)
+n_pts <- 100
+left_img <- array(round(runif(n=n_pts^2),0), dim = c(n_pts, n_pts))
+plot(as.cimg(left_img), axes=FALSE)
+```
+
+---
+```{r rds_2}
+right_img <- left_img
+square_pix <- 20
+center_square <- right_img[floor(n_pts/2-square_pix/2):floor(n_pts/2+square_pix/2),floor(n_pts/2-square_pix/2):floor(n_pts/2+square_pix/2)]
+plot(as.cimg(center_square), axes=FALSE)
+```
+
+<!-- --- -->
+<!-- ```{r rds_3} -->
+<!-- shift_pix <- 5 -->
+<!-- right_img[floor(n_pts/2) - shift_pix:floor(n_pts/2) - shift_pix + square_pix, floor(n_pts/2-square_pix/2):floor(n_pts/2+square_pix/2)] <- center_square -->
+<!-- plot(as.cimg(right_img), axes=FALSE) -->
+<!-- ``` -->
 
 ---
 class: center, middle
@@ -169,7 +275,23 @@ class: center, middle
 
 <img src="http://images.slideplayer.com/15/4713027/slides/slide_3.jpg"/>
 
+---
+class: center, middle
+
 ## Marr-Poggio algorithm for solving
+
+Use: surface opacity & surface continuity heuristics
+
+Iterate until a best-fitting solution is found
+
+---
+class: center, middle
+
+<img src="http://jov.arvojournals.org/data/Journals/JOV/933541/i1534-7362-13-2-16-f01.jpeg"/>
+
+## Da Vinci stereopsis
+
+Different eyes see different portions of surfaces
 
 ---
 class: center, middle
@@ -193,7 +315,7 @@ class: center, middle
 ---
 class: center, middle
 
-<img src="https://i1.wp.com/teresabernardart.com/wp-content/uploads/2016/01/Linear_Perspective.jpg/">
+<img src="https://i1.wp.com/teresabernardart.com/wp-content/uploads/2016/01/Linear_Perspective.jpg">
 
 ---
 class: center, middle
@@ -250,7 +372,7 @@ class: center, middle
 ---
 class: center, middle
 
-<img src="https://eet-330.wikispaces.com/file/view/Picture1.jpg/142684553/432x576/Picture1.jpg">
+<img src="https://eet-330.wikispaces.com/file/view/Picture1.jpg/142684553/432x576/Picture1.jpg" height=450px>
 
 ## Interposition, occultation
 
@@ -300,6 +422,8 @@ class: center, middle
 class: center, middle
 
 # Sensorimotor cues to depth
+
+## Palmer's "ocular" cues
 
 ---
 class: center, middle
@@ -353,6 +477,13 @@ class: center, middle
 ## Integrating the cues
 
 Welchman, A. E. (2016). The human brain in depth: how we see in 3D. *Annual Review of Vision Science*. annualreviews.org. Retrieved from http://www.annualreviews.org/doi/abs/10.1146/annurev-vision-111815-114605
+
+---
+class: center, middle
+
+# Heuristics
+
+## About world, illumination conditions
 
 ---
 class: center, middle
