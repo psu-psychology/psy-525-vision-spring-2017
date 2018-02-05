@@ -488,9 +488,51 @@ class: center, middle
 ---
 class: center, middle
 
-# Alternative view:
+>*"Only in the vision scientist's laboratory or under other conditions designed specifically to deceive the visual system do we regularly fail to apprehend the actual distance to environmental surfaces."*
 
-These aren't cues; they are information. Animals don't "reconstruct" 3D space; they perceive it directly.
+Palmer, 1999, p. 202
+
+---
+class: center, middle
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Vertical%E2%80%93horizontal_illusion.png#/media/File:Vertical%E2%80%93horizontal_illusion.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Vertical%E2%80%93horizontal_illusion.png" alt="Vertical–horizontal illusion.png"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:S-kay&amp;action=edit&amp;redlink=1" class="new" title="User:S-kay (page does not exist)">S-kay</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=8845534">Link</a></p>
+
+---
+class: center, middle
+
+<img src="http://www.pnas.org/content/pnas/99/20/13184/F1.large.jpg" height=450px>
+
+## Vertical lines seem longer than horizontal ones
+
+Vertical-horizontal illusion
+
+---
+class: center, middle
+
+<img src="http://www.pnas.org/content/pnas/99/20/13184/F2.large.jpg" height=450px>
+
+## Reflects statistics of visual experience?
+
+---
+class: center, middle
+
+<img src="http://www.pnas.org/content/pnas/99/20/13184/F3.large.jpg" height=450px>
+
+Howe, C. Q., & Purves, D. (2002). Range image statistics can explain the anomalous perception of length. Proceedings of the National Academy of Sciences of the United States of America, 99(20), 13184–13188. Retrieved from http://dx.doi.org/10.1073/pnas.162474299
+
+---
+class: center, middle
+
+<img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/psych/2008/psych.2008.59.issue-1/annurev.psych.58.110405.085632/production/images/large/ps590167.f6.jpeg" height=450px>
+
+Geisler, W. S. (2008). Visual Perception and the Statistical Properties of Natural Scenes. *Annual Review of Psychology*, *59*(1), 167–192. Retrieved April 17, 2012, from http://www.annualreviews.org/doi/abs/10.1146/annurev.psych.58.110405.085632
+
+---
+class: center, middle
+
+<img src="http://imagebank.osa.org/getImage.xqy?img=OG0kcC5mdWxsLGpvc2FhLTIwLTctMTI5Mi1nMDA3&article=josaa-20-7-1292-g007" height=450px/>
+
+Potetz, B., & Lee, T. S. (2003). Statistical correlations between two-dimensional images and three-dimensional structures in natural scenes. *Journal of the Optical Society of America. A, Optics, image science, and vision*, *20*(7), 1292–1303. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/12868635
 
 ---
 class: center, middle, inverse
