@@ -64,7 +64,7 @@ title: "Schedule"
     - Size, shape, orientation, & position
 - Readings
     - Palmer, chapters 6, 7, & 8
-    - Biederman, I. (1987). Recognition-by-components: a theory of human image understanding. *Psychological Review*, *94*(2), 115–147. psycnet.apa.org. Retrieved from <https://www.ncbi.nlm.nih.gov/pubmed/3575582>
+    - Biederman, I. (1987). Recognition-by-components: a theory of human image understanding. *Psychological Review*, *94*(2), 115–147. psycnet.apa.org. Retrieved from <https://www.ncbi.nlm.nih.gov/pubmed/3575582>. | [PDF](slides/pdf/biederman-1987.pdf) |
 
 ---
 
@@ -87,6 +87,10 @@ title: "Schedule"
     - Palmer, chapter 3
     - Lee, T.-W., Wachtler, T., & Sejnowski, T. J. (2002). Color opponency is an efficient representation of spectral properties in natural scenes. *Vision Research*, *42*(17), 2095–2103. Elsevier. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/12169429
     - Nikolić, D., Lichti, P., & Singer, W. (2007). Color opponency in synaesthetic experiences. *Psychological Science*, *18*(6), 481–486. journals.sagepub.com. Retrieved from <http://dx.doi.org/10.1111/j.1467-9280.2007.01925.x>
+    
+## Week 8 • Wed Feb 28
+
+- [Project proposal](project-proposal.html) due by 5:00 pm
     
 ---
 

@@ -2,9 +2,9 @@
 title: "Proposal"
 ---
 
-## Class project proposal
+## Class term project proposal
 
-Please prepare a 1-2 pp project proposal describing you you intend to fulfill this part of the course requirements. Your proposal should have the following components:
+Please prepare a 1-2 pp project proposal describing the work you intend to do fulfill this part of the [course requirements](evaluation.html). Your proposal should have the following components:
 
 1. **Introduction**: Describe the question you will answer, the topic you will discuss, or the phenomenon you will demonstrate and why it is of interest to you and important to vision science.
 
