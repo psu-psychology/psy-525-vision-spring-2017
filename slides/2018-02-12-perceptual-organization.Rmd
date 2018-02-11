@@ -1,0 +1,268 @@
+---
+title: "2018-02-12 Perceptual organization"
+subtitle: "PSY 525.001 • Vision Science • 2018 Spring"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(tidyverse)
+library(psyphy)
+library(imager)
+```
+
+# Today's topics
+
+--
+## Perceptual organization
+
+--
+## Discuss Biederman (1987).
+
+---
+class: center, middle
+
+<img src="http://cns-alumni.bu.edu/~slehar/webstuff/pcave/gestalt_laws.jpg" height=450px/>
+
+## Perceptual grouping
+
+---
+class: center, middle
+
+<img src="http://web.mit.edu/6.813/www/sp17/classes/14-layout/figures/03.png" height=450px/>
+
+## Perceptual grouping
+
+---
+class: center, middle
+
+<img src="http://www.doctordisruption.com/wp-content/uploads/2016/01/thing-11.jpg" height=450px/>
+
+## Element connectedness
+
+---
+class: center, middle
+
+<img src="http://www.csus.edu/indiv/w/wickelgren/psyc103/gestaltcommonregionsign.jpg" height=450px/>
+
+## Common region
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1F5ICP9SYLU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Motion and perceptual organization
+
+---
+class: center, middle
+
+# Early or late?
+
+---
+class: center, middle
+
+# Scene perception
+
+---
+class: center, middle
+
+<img src="http://i.dailymail.co.uk/i/pix/2014/06/24/article-2666847-1F12F26400000578-337_634x206.jpg" height=450px/>
+
+## Analyzing regions/camoflage
+
+---
+class: center, middle
+
+<img src="https://i.chzbgr.com/full/8266480640/hB5FE9E07/" height=450px/>
+
+---
+class: center, middle
+
+<img src="https://public-media.interaction-design.org/images/ux-daily/562e4c0c6a018.jpg" height=450px/>
+
+## Uniform connectedness: region parsing before grouping? (Palmer & Rock)
+
+---
+class: center, middle
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0001691803000933-gr3.gif" height=450px/>
+
+---
+class: center, middle
+
+<img src="https://www.researchgate.net/profile/Olivia_Cheung/publication/235368613/figure/fig1/AS:272536512495617@1441989176053/Figure-3-An-image-filtered-to-include-A-both-low-and-high-spatial-frequency.png" height=450px/>
+
+## Edge detection through spatial frequency filtering
+
+---
+class: center, middle
+
+<img src="http://www.illusionsindex.org/images/illusions/Ehrenstein/42_neoncolour_fig2.png" height=450px/>
+
+## Illusory edges and spreading
+
+---
+class: center, middle
+
+<img src="http://www.cns.nyu.edu/~msl/texture.gif" height=450px/>
+
+## Texture segregation
+
+---
+class: center, middle
+
+<img src="http://www.pnas.org/content/pnas/103/42/15704/F1.large.jpg" height=450px/>
+
+Ben-Shahar, O. (2006). Visual saliency and texture segregation without feature gradient. *Proceedings of the National Academy of Sciences of the United States of America*, *103*(42), 15704–15709. Retrieved from http://dx.doi.org/10.1073/pnas.0604410103
+
+---
+class: center, middle
+
+<img src="https://visscom.files.wordpress.com/2013/04/tumblr_l9lewt0jaa1qz4f43o1_500.gif" height=450px/>
+
+## Figure/ground segregation
+
+---
+class: middle
+
+| Figure | Ground |
+|--------|--------|
+| Thinglike | Not thinglike |
+| Closer to observer | Farther from observer |
+| Bounded by contour | Extends behind contour |
+| Shape defined by contour | No shape at contour |
+
+Palmer Table 6.3.1
+
+---
+class: middle, center
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0042698915001066-gr1.jpg" height=450px/>
+
+## Symmetry, convexity, smallness, bottom-up polarity, lower region, protrusion
+
+---
+class: middle, center
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0042698915001066-gr10.jpg" height=400px/>
+
+> "Figure–ground segregation can be computed without relying on image contours. Figural status estimates result from a multidirectional linear voting process."
+
+Dimiccoli, M. (2016). Figure-ground segregation: A fully nonlocal approach. *Vision Research*, *126*, 308–317. Retrieved from http://dx.doi.org/10.1016/j.visres.2015.03.007
+
+---
+class: center, middle
+
+<img src="http://cns-alumni.bu.edu/~slehar/Spatial/Spatial_files/image002.jpg" height=450px/>
+
+**Amodal** completion (perception of occluded whole) vs. **modal** completion (perception of unoccluded whole)
+
+---
+class: center, middle
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-0042698996000624-gr1.gif" height=450px/>
+
+---
+class: center, middle
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-0042698996000624-gr10.gif" height=450px/>
+
+Ringach, D. L., & Shapley, R. (1996). Spatial and temporal properties of illusory contours and amodal boundary completion. *Vision Research*, *36*(19), 3037–3050. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/8917767
+
+---
+class: center, middle
+
+<img src="http://jov.arvojournals.org/data/Journals/JOV/933517/m_jov-7-1-6-fig001b.jpeg" height=450px/>
+
+## Multi-stable images
+
+---
+class: center, middle
+
+<img src="http://jov.arvojournals.org/data/Journals/JOV/933517/m_jov-7-1-6-f
+ig001c.jpeg"/>
+
+Pitts, M. A., Nerger, J. L., & Davis, T. J. R. (2007). Electrophysiological correlates of perceptual reversals for three different types of multistable images. *Journal of Vision*, *7*(1), 6. Retrieved from http://dx.doi.org/10.1167/7.1.6
+
+---
+class: center, middle
+
+<img src="http://payload34.cargocollective.com/1/6/214386/2994968/prt_220x225_1331649463.jpg" height=450px/>
+
+Necker cube with illusory contours
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WhbZesV2GRk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Ambiguous/multi-stable vs. unambiguous plaids
+
+---
+class: center, middle, inverse
+
+# Break time
+
+---
+class: center, middle, inverse
+
+# Discussion of Biederman (1987)
+
+---
+class: middle
+
+## Principles of "non-accidentalness"
+
+1. Collinearity
+2. Curvilinearity
+3. Symmetry
+4. Parallel curves
+5. Vertices
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0qcYoC5Ld1Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Ames chair illusion illustrates implicit "principle" of co-termination
+
+---
+class: center, middle
+
+<img src="http://overwow.org/image/truth-018.jpg" height=450px/>
+
+---
+class: center, middle
+
+<img src="https://www.moillusions.com/wp-content/uploads/2014/07/Leaning-Tower-of-Pisa-Optical-Illusion1.jpg"/>
+
+---
+class: center, middle
+
+<img src="https://now-you-see-it.wikispaces.com/file/view/geons.gif/354035802/geons.gif" height=450px/>
+
+---
+class: center, middle
+
+| Edge | Symmetry | Size | Axis |
+|------|----------|------|------|
+| Straight or Curved | Rot + Ref; Ref; Asymm | Constant; Expanded; Expand & Contract | Straight or Curved |  
+
+---
+# Next time...
+
+## Size, shape, orientation, & position
+
+---
+class: center, middle
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan). Rendered HTML and supporting files are pushed to GitHub where GitHub's 'pages' feature is used to host and serve the course website.
