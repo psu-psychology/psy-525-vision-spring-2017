@@ -50,6 +50,7 @@ title: "Schedule"
 
 - Topics
     - Depth perception
+    - [Project proposal](project-proposal.html) due by 5:00 pm
 - Readings
     - Palmer, chapter 5
     - Leopold, D. A., & Logothetis, N. K. (1996). Activity changes in early visual cortex reflect monkeys’ percepts during binocular rivalry. *Nature*, *379*(6565), 549–553. nature.com. Retrieved from <http://dx.doi.org/10.1038/379549a0>
