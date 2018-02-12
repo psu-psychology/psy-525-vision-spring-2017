@@ -208,6 +208,42 @@ class: center, middle
 ## Ambiguous/multi-stable vs. unambiguous plaids
 
 ---
+class: center, middle
+
+# Are there deeper relationships at work here?
+
+---
+class: center, middle
+
+<img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/psych/2008/psych.2008.59.issue-1/annurev.psych.58.110405.085632/production/images/large/ps590167.f1.jpeg" width=800px/>
+
+---
+class: center, middle
+
+<img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/psych/2008/psych.2008.59.issue-1/annurev.psych.58.110405.085632/production/images/large/ps590167.f2.jpeg" height=450px/>
+
+---
+class: center, middle
+
+<img src="img/geisler-perry-2009-fig02.jpg" height=450px/>
+
+Geisler, W. S., & Perry, J. S. (2009). Contour statistics in natural images: Grouping across occlusions. *Visual Neuroscience*, *26*(1), 109–121. Cambridge University Press.
+
+---
+class: center, middle
+
+<img src="img/geisler-perry-2009-fig04.jpg" height=450px/>
+
+Geisler, W. S., & Perry, J. S. (2009). Contour statistics in natural images: Grouping across occlusions. *Visual Neuroscience*, *26*(1), 109–121. Cambridge University Press.
+
+---
+class: center, middle
+
+<img src="img/geisler-perry-2009-fig06.jpg" height=450px/>
+
+Geisler, W. S., & Perry, J. S. (2009). Contour statistics in natural images: Grouping across occlusions. *Visual Neuroscience*, *26*(1), 109–121. Cambridge University Press.
+
+---
 class: center, middle, inverse
 
 # Break time
