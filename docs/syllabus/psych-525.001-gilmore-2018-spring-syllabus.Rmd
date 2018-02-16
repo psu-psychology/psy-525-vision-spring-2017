@@ -1,0 +1,17 @@
+---
+title: "PSY 525.001 Spring 2018 Syllabus"
+output: pdf_document
+---
+
+```{r child = '../index.Rmd'}
+```
+
+# Schedule
+
+```{r child = '../schedule.Rmd'}
+```
+
+# Evaluation
+
+```{r child = '../evaluation.Rmd'}
+```
