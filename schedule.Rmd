@@ -64,7 +64,7 @@ title: "Schedule"
     - Perceptual organization
     - Size, shape, orientation, & position
 - Readings
-    - Palmer, chapters 6, 7, & 8
+    - Palmer, chapters 6, 7, & 9 (pp. 433-453)
     - Biederman, I. (1987). Recognition-by-components: a theory of human image understanding. *Psychological Review*, *94*(2), 115–147. psycnet.apa.org. Retrieved from <https://www.ncbi.nlm.nih.gov/pubmed/3575582>. | [PDF](slides/pdf/biederman-1987.pdf) |
     - Lecture notes. | [HTML slides](slides/2018-02-12-perceptual-organization.html) | [PDF](slides/2018-02-12-perceptual-organization.pdf) |. 
 
@@ -75,7 +75,7 @@ title: "Schedule"
 - Topics
     - Objects, scenes, faces
 - Readings
-    - Palmer, chapter 9
+    - Palmer, chapter 8
     - Schyns, P. G., & Oliva, A. (1994). From Blobs to Boundary Edges: Evidence for Time- and Spatial-Scale-Dependent Scene Recognition. *Psychological Science*, *5*(4), 195–200. SAGE Publications Inc. Retrieved from <https://doi.org/10.1111/j.1467-9280.1994.tb00500.x>
     - Kanwisher, N., McDermott, J., & Chun, M. M. (1997). The fusiform face area: a module in human extrastriate cortex specialized for face perception. *The Journal of Neuroscience*, *17*(11), 4302–4311. Retrieved from <https://www.ncbi.nlm.nih.gov/pubmed/9151747>
     - Lecture notes. | [HTML slides](slides/2018-02-19-objects-scenes-faces.html) | [PDF](slides/2018-02-19-objects-scenes-faces.pdf) |. 
