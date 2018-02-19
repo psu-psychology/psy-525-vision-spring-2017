@@ -31,6 +31,11 @@ library(imager)
 ## Faces
 
 ---
+class: middle, center
+
+## Reminder, [project proposal](../project-proposal.html) due **next Wednesday, 2/28**
+
+---
 class: middle, center, inverse
 
 # Shape & structure
@@ -55,7 +60,7 @@ Gilmore, R.O. & Norcia, A.M. (2014). The Salience of Lower-Order, Localized Feat
 ---
 class: center, middle
 
-<img src="https://www.frontiersin.org/files/Articles/158846/fpsyg-07-00064-HTML-r1/image_m/fpsyg-07-00064-g002.jpg"/>
+<img src="https://www.frontiersin.org/files/Articles/158846/fpsyg-07-00064-HTML-r1/image_m/fpsyg-07-00064-g002.jpg" height=450px/>
 
 ## Frames of reference
 
@@ -76,12 +81,12 @@ Cohen, Y. E., & Andersen, R. A. (2002). A common reference frame for movement pl
 ---
 class: center, middle
 
-<img src="https://www.cs.unm.edu/~brayer/vision/cosines.gif"/>
+<img src="https://www.cs.unm.edu/~brayer/vision/cosines.gif" height=450px/>
 
 ---
 class: center, middle
 
-<img src="https://www.cs.unm.edu/~brayer/vision/brks_blks.gif"/>
+<img src="https://www.cs.unm.edu/~brayer/vision/brks_blks.gif" height=450px/>
 
 ---
 
