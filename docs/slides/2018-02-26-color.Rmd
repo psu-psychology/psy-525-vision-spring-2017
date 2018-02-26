@@ -48,14 +48,22 @@ class: middle, center
 ---
 class: middle, center
 
-<img src="http://www.seos-project.eu/modules/remotesensing/images/Reflexionskurven_450.png"/>
+<img src="https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/imaging.png" height=500px/>
+
+## The problem of wavelength estimation
+
+---
+class: middle, center
+
+<img src="http://www.seos-project.eu/modules/remotesensing/images/Reflexionskurven_450.png" height=500px/>
 
 ## Reflectance spectra
 
 ---
 class: middle, center
 
-<img src="https://sites.google.com/site/obeluwa/_/rsrc/1372214890170/skin/introduction-to-diffuse-reflectance-spectroscopy/sample-spectra.png"/>
+<img src="https://sites.google.com/site/obeluwa/_/rsrc/1372214890170/skin/introduction-to-diffuse-reflectance-spectroscopy/sample-spectra.png" height=500px/>
+
 
 ---
 class: middle, center
@@ -87,12 +95,24 @@ class: middle, center
 ---
 class: middle, center
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Cone-fundamentals-with-srgb-spectrum.svg#/media/File:Cone-fundamentals-with-srgb-spectrum.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cone-fundamentals-with-srgb-spectrum.svg/1200px-Cone-fundamentals-with-srgb-spectrum.svg.png" alt="Cone-fundamentals-with-srgb-spectrum.svg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:BenRG" title="User:BenRG">BenRG</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=7873848">Link</a></p>
+# How to reconcile?
 
 ---
 class: middle, center
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Spectrum_locus_12.png#/media/File:Spectrum_locus_12.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Spectrum_locus_12.png/1200px-Spectrum_locus_12.png" alt="Spectrum locus 12.png"></a><br>By KoenB - self-made Java program displaying an interpretation of public domain figures, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1660494">Link</a></p>
+<img src="https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/hueCancel.png" height=500px/>
+
+## Hurvich & Jameson (1957) hue cancelling
+
+---
+class: middle, center
+
+## A physiological reconciliation
+
+---
+class: middle, center
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Cone-fundamentals-with-srgb-spectrum.svg#/media/File:Cone-fundamentals-with-srgb-spectrum.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cone-fundamentals-with-srgb-spectrum.svg/1200px-Cone-fundamentals-with-srgb-spectrum.svg.png" alt="Cone-fundamentals-with-srgb-spectrum.svg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:BenRG" title="User:BenRG">BenRG</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=7873848">Link</a></p>
 
 ---
 class: middle, center
@@ -101,19 +121,45 @@ class: middle, center
 
 ## Synthesis
 
+
 ---
 class: middle, center
 
-<img src="http://webvision.med.utah.edu/imageswv/GourasFig%2016.jpg"/>
+<p><a href="https://commons.wikimedia.org/wiki/File:Spectrum_locus_12.png#/media/File:Spectrum_locus_12.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Spectrum_locus_12.png/1200px-Spectrum_locus_12.png" alt="Spectrum locus 12.png" height=450px></a><br>By KoenB - self-made Java program displaying an interpretation of public domain figures, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1660494">Link</a></p>
+
+---
+class: middle, center
+
+<img src="http://webvision.med.utah.edu/imageswv/GourasFig%2016.jpg" height=450px/>
 
 ## Retinal circuitry for color opponency
 
 ---
 class: middle, center
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Eyesensitivity.svg#/media/File:Eyesensitivity.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Eyesensitivity.svg/1200px-Eyesensitivity.svg.png" alt="Eyesensitivity.svg"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Skateboker&amp;action=edit&amp;redlink=1" class="new" title="User:Skateboker (page does not exist)">Skatebiker</a>, vector by <a href="//commons.wikimedia.org/wiki/User:Adam_R%C4%99dzikowski" title="User:Adam Rędzikowski">Adam Rędzikowski</a> - File:Evesensitivity.svg, vectorised, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24492291">Link</a></p>
+## Consequences...
 
-## Photopic (day/bright light) sensitivity
+---
+class: middle, center
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Eyesensitivity.svg#/media/File:Eyesensitivity.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Eyesensitivity.svg/1200px-Eyesensitivity.svg.png" alt="Eyesensitivity.svg" height=450px></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Skateboker&amp;action=edit&amp;redlink=1" class="new" title="User:Skateboker (page does not exist)">Skatebiker</a>, vector by <a href="//commons.wikimedia.org/wiki/User:Adam_R%C4%99dzikowski" title="User:Adam Rędzikowski">Adam Rędzikowski</a> - File:Evesensitivity.svg, vectorised, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24492291">Link</a></p>
+
+## [Photopic](https://en.wikipedia.org/wiki/Photopic_vision) (day/bright light) sensitivity
+
+---
+class: middle, center
+
+<p><a href="https://commons.wikimedia.org/wiki/File:CIE_1931_Luminosity.png#/media/File:CIE_1931_Luminosity.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/CIE_1931_Luminosity.png/1200px-CIE_1931_Luminosity.png" alt="CIE 1931 Luminosity.png"></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=413513">Link</a></p>
+
+## Scotopic
+
+---
+class: middle, center
+
+<p><a href="https://commons.wikimedia.org/wiki/File:CIE_1951_scotopic_luminosity_function.svg#/media/File:CIE_1951_scotopic_luminosity_function.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CIE_1951_scotopic_luminosity_function.svg/1200px-CIE_1951_scotopic_luminosity_function.svg.png" alt="CIE 1951 scotopic luminosity function.svg"></a><br>By Designed to match original bitmap version <a href="//commons.wikimedia.org/wiki/File:Scotopic1.png" title="File:Scotopic1.png">Image:Scotopic1.png</a> by <a href="//commons.wikimedia.org/w/index.php?title=User:En:Dicklyon&amp;action=edit&amp;redlink=1" class="new" title="User:En:Dicklyon (page does not exist)">User:en:Dicklyon</a>
+Gnuplot vector version by <a href="//commons.wikimedia.org/wiki/User:Qef" title="User:Qef">User:Qef</a> - Data from <a rel="nofollow" class="external free" href="http://www.cvrl.org/database/text/lum/scvl.htm">http://www.cvrl.org/database/text/lum/scvl.htm</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=4321290">Link</a></p>
+
+## Photopic
 
 ---
 class: middle, center
@@ -125,46 +171,50 @@ class: middle, center
 ---
 class: middle, center
 
-<img src="https://www.nippondenshoku.co.jp/web/english/colorstory/images/07_what_is_ucs_1.jpg"/>
+<img src="https://www.nippondenshoku.co.jp/web/english/colorstory/images/07_what_is_ucs_1.jpg" height=450px/>
 
 ## 3 parameter color space
 
 ---
 class: middle, center
 
-<p><a href="https://commons.wikimedia.org/wiki/File:AdditiveColor.svg#/media/File:AdditiveColor.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AdditiveColor.svg/1200px-AdditiveColor.svg.png" alt="AdditiveColor.svg"></a><br>By <a href="https://en.wikipedia.org/wiki/User:SharkD" class="extiw" title="wikipedia:User:SharkD">SharkD</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> Later versions were uploaded by <a href="https://en.wikipedia.org/wiki/User:Jacobolus" class="extiw" title="en:User:Jacobolus">Jacobolus</a> at <a class="external text" href="http://en.wikipedia.org">en.wikipedia</a>. - Transferred from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org">en.wikipedia</a></span> to Commons., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=2529435">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:AdditiveColor.svg#/media/File:AdditiveColor.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AdditiveColor.svg/1200px-AdditiveColor.svg.png" alt="AdditiveColor.svg" height=450px></a><br>By <a href="https://en.wikipedia.org/wiki/User:SharkD" class="extiw" title="wikipedia:User:SharkD">SharkD</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> Later versions were uploaded by <a href="https://en.wikipedia.org/wiki/User:Jacobolus" class="extiw" title="en:User:Jacobolus">Jacobolus</a> at <a class="external text" href="http://en.wikipedia.org">en.wikipedia</a>. - Transferred from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org">en.wikipedia</a></span> to Commons., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=2529435">Link</a></p>
 
 ## RGB space (for computer monitors)
 
 ---
 class: middle, center
 
-<p><a href="https://commons.wikimedia.org/wiki/File:SubtractiveColor.svg#/media/File:SubtractiveColor.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/SubtractiveColor.svg/1200px-SubtractiveColor.svg.png" alt="SubtractiveColor.svg"></a><br>By <a href="https://en.wikipedia.org/wiki/User:SharkD" class="extiw" title="wikipedia:User:SharkD">SharkD</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> Later version uploaded by <a href="https://en.wikipedia.org/wiki/User:Jacobolus" class="extiw" title="en:User:Jacobolus">Jacobolus</a>, <a href="https://en.wikipedia.org/wiki/User:Dacium" class="extiw" title="en:User:Dacium">Dacium</a> at <a class="external text" href="http://en.wikipedia.org">en.wikipedia</a>. - Transferred from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org">en.wikipedia</a></span> to Commons., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=3791468">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:SubtractiveColor.svg#/media/File:SubtractiveColor.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/SubtractiveColor.svg/1200px-SubtractiveColor.svg.png" alt="SubtractiveColor.svg" height=450px></a><br>By <a href="https://en.wikipedia.org/wiki/User:SharkD" class="extiw" title="wikipedia:User:SharkD">SharkD</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> Later version uploaded by <a href="https://en.wikipedia.org/wiki/User:Jacobolus" class="extiw" title="en:User:Jacobolus">Jacobolus</a>, <a href="https://en.wikipedia.org/wiki/User:Dacium" class="extiw" title="en:User:Dacium">Dacium</a> at <a class="external text" href="http://en.wikipedia.org">en.wikipedia</a>. - Transferred from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org">en.wikipedia</a></span> to Commons., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=3791468">Link</a></p>
 
 ## CMYK (cyan, magenta, yellow, black) space for printing
 
----
-class: middle, center
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YPlB20a0CQw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 class: middle, center
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ishihara_23.PNG/600px-Ishihara_23.PNG"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ishihara_11.PNG/600px-Ishihara_11.PNG"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ishihara_23.PNG/600px-Ishihara_23.PNG" height=450px/>
 
 ## Tests for color-blindness
 
 ---
+class: middle, center
 
-<img src="http://www.psy.ritsumei.ac.jp/~akitaoka/goodcomplexion.jpg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ishihara_11.PNG/600px-Ishihara_11.PNG" height=450px/>
+
+## Tests for color-blindness
+
+---
+class: middle, center
+
+<img src="http://www.psy.ritsumei.ac.jp/~akitaoka/goodcomplexion.jpg" height=450px/>
 
 ## Good complexion illusion
 
 ---
+class: middle, center
 
-<img src="http://www.psy.ritsumei.ac.jp/~akitaoka/pigeon01.jpg"/>
+<img src="http://www.psy.ritsumei.ac.jp/~akitaoka/pigeon01.jpg" height=450px/>
 
 <http://www.psy.ritsumei.ac.jp/~akitaoka/AIC2009.html>
 
@@ -176,10 +226,18 @@ class: middle, center
 ---
 class: middle, center
 
-<img src="https://psych.hanover.edu/classes/sensation/ColorAftereffect_files/slide0002_image006.gif"/>
+---
+class: middle, center
+
+<img src="https://psych.hanover.edu/classes/sensation/ColorAftereffect_files/slide0002_image006.gif" />
 
 ---
 class: middle, center
+
+---
+class: middle, center
+
+<img src="https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/squarewave.png" height=500px/>
 
 ---
 class: middle, center
@@ -187,6 +245,13 @@ class: middle, center
 ## Wavelength is continuous
 
 ## Color perception is categorical, cyclical, psychological
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YPlB20a0CQw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Don't believe your lying eyes
 
 ---
 class: middle, center, inverse
@@ -248,8 +313,7 @@ class: middle, center
 ---
 class: middle, center
 
-Nikolić, D., Lichti, P., & Singer, W. (2007). Color opponency in synaesthetic experiences. *Psychological Science*, *18*(6), 481–486. journals.sagepub.com. Retrieved from http://dx.doi.org/10.1111/j.1467-9280.2007.01925.x
-
+Nikolić, D., Lichti, P., & Singer, W. (2007). Color opponency in synaesthetic experiences. *Psychological Science*, *18*(6), 481–486. Retrieved from http://dx.doi.org/10.1111/j.1467-9280.2007.01925.x
 
 ---
 class: middle, center
@@ -266,6 +330,14 @@ class: middle, center
 
 <img src="http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/pssa/2007/pssa_18_6/j.1467-9280.2007.01925.x/20160829/images/medium/10.1111_j.1467-9280.2007.01925.x-fig3.gif"/>
 
+---
+class: middle, center
+
+>"*Thus, the results of our study provide strong psychophysical evidence for involvement of color-opponent channels and, hence, early visual areas in the generation of synaesthetic color experiences.*"
+
+>"*Therefore, our results indicate that the color interactions in the present Stroop task have two components: The stronger component reflects synaesthesia proper and depends on color opponency, and the weaker component reflects knowledge about the synaesthetic associations and is independent of color opponency.*"
+
+[Nikolić, Lichti, & Singer, 2007](http://dx.doi.org/10.1111/j.1467-9280.2007.01925.x)
 
 ---
 class: center, middle
