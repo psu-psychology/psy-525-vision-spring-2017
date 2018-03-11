@@ -1,0 +1,253 @@
+---
+title: "2018-03-12 Motion"
+subtitle: "PSY 525.001 • Vision Science • 2018 Spring"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(tidyverse)
+library(psyphy)
+library(imager)
+```
+
+# Today's topics
+
+--
+## Motion
+
+---
+class: middle, center
+
+## Motion detection
+
+## Sources & Types of motion
+
+## Physiology of motion
+
+---
+class: middle, center
+
+# Sources & Types of Motion
+
+---
+class: middle, center
+
+## Source: Object vs. Self
+
+## Direction, speed, type
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWXL8wjGynQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## 2D form from motion
+
+---
+class: middle, center
+
+## Speed = Distance/Time
+
+## Motion -> Change in Luminance/Time
+
+---
+class: middle, center
+
+<img src="http://www.pnas.org/content/pnas/101/46/16333/F1.medium.gif"/>
+
+## [(Werner) Reichardt](https://en.wikipedia.org/wiki/Werner_E._Reichardt) detector
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uF4KUmC9L3M?rel=0&amp;start=122" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Motion detection, integration
+
+---
+class: middle, center
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Aperture_problem_animated.gif#/media/File:Aperture_problem_animated.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Aperture_problem_animated.gif" alt="Aperture problem animated.gif"></a><br>By The original uploader was <a href="https://en.wikipedia.org/wiki/User:Rokers" class="extiw" title="wikipedia:User:Rokers">Rokers</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> - Transferred from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org">en.wikipedia</a></span> to Commons., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1881352">Link</a></p>
+
+## Aperture problem
+
+---
+class: middle, center
+
+<img src="http://fourier.eng.hmc.edu/e180/lectures/figures/aperture.gif"/>
+<img src="http://fourier.eng.hmc.edu/e180/lectures/figures/aperture_problem_1.gif"/>
+<img src="http://fourier.eng.hmc.edu/e180/lectures/figures/aperture_problem_2.gif"/>
+
+<http://fourier.eng.hmc.edu/e180/lectures/motion/node11.html>
+
+---
+class: middle, center
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Phi_phenomenom_no_watermark.gif#/media/File:Phi_phenomenom_no_watermark.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Phi_phenomenom_no_watermark.gif" alt="Phi phenomenom no watermark.gif"></a><br>By Copied from the very nice animation at <a href="//commons.wikimedia.org/wiki/File:Phi_Phenomenon.gif" title="File:Phi Phenomenon.gif">Image:Phi_Phenomenon.gif</a>, but with the watermark with the image author's name removed in accordance with <a class="external autonumber" href="http://en.wikipedia.org/wiki/WP:IUP#User-created_images">[1]</a> - English Wikipedia The original file was upload by English-Wiki user Cromis, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8051039">Link</a></p>
+
+## Apparent motion
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvvcRdwNhGM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Motion from static samples smeared in space
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VNVmBVHVlmQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center
+
+<img src="http://www.georgemather.com/Image/modelFig1.gif"/>
+<http://www.georgemather.com/Model.html>
+
+## Motion Energy Filters [(Adelson & Bergen, 1985)](https://doi.org/10.1364/JOSAA.2.000284)
+
+---
+class: middle, center
+
+<img src="http://www.georgemather.com/Image/Filters.png"/>
+<http://www.georgemather.com/Model.html>
+
+## Speed/direction are slopes in space-time
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iw8idyw_N6Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Anomalous motion illusions
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y97Rxck89p8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Flipbooks
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RdwU28bghbQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Structure from motion
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bVSaWXqQh0w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Motion parallax specifies relative depth
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cGIpSHw7evg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Optic flow specifies observer motion
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VGVwOmn6bk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Binocular motion signals and 3D perception
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUcwbjaGGNM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Random dot kinematogram (RDK) motion parameters
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skZM8XEE9Eo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Motion integration
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGJYSIBETho?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Second-order (changes in contrast, texture, etc.) but not overall luminance
+
+---
+class: middle, center
+
+<img src="https://www.the-scientist.com/images/June2015/Footsteps.gif"/>
+
+## Relative contrast matters 
+
+---
+class: middle, center
+
+<img src="https://www.the-scientist.com/images/June2015/Bugsy21.gif"/>
+
+## Context effects [Anstis, 2015](https://www.the-scientist.com/?articles.view/articleNo/43036/title/Seeing-Isn-t-Believing/)
+
+---
+class: middle, center
+
+<img src="https://www.the-scientist.com/images/June2015/Kim2.gif"/>
+
+## Grouping effects [Anstis, 2015](https://www.the-scientist.com/?articles.view/articleNo/43036/title/Seeing-Isn-t-Believing/)
+
+---
+class: middle, center
+
+<img src="https://www.the-scientist.com/images/June2015/Kim1.gif"/>
+
+## Grouping effects [Anstis, 2015](https://www.the-scientist.com/?articles.view/articleNo/43036/title/Seeing-Isn-t-Believing/)
+
+---
+class: middle, center
+
+## PsychoPy, <http://www.psychopy.org/>
+
+## Matlab Psychophysics Toolbox, <http://psychtoolbox.org/>
+
+---
+class: middle, center, inverse
+
+# Break
+
+---
+class: middle, center
+
+Johansson, G. (1973). Visual perception of biological motion and a model for its analysis. *Perception & Psychophysics*, *14*(2), 201–211. Springer-Verlag. Retrieved December 20, 2017, from https://link.springer.com/article/10.3758/BF03212378
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1F5ICP9SYLU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KT89CQ2nRpo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center
+
+Newsome, W. T., & Paré, E. B. (1988). A selective impairment of motion perception following lesions of the middle temporal visual area (MT). *The Journal of Neuroscience*, *8*(6), 2201–2211. Retrieved March 30, 2015, from https://www.ncbi.nlm.nih.gov/pubmed/3385495
+
+---
+class: center, middle
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan). Rendered HTML and supporting files are pushed to GitHub where GitHub's 'pages' feature is used to host and serve the course website.

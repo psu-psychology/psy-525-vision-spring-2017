@@ -109,8 +109,9 @@ title: "Schedule"
 - Readings
     - Palmer, chapter 10
     - Johansson, G. (1973). Visual perception of biological motion and a model for its analysis. *Perception & Psychophysics*, *14*(2), 201–211. Springer-Verlag. Retrieved December 20, 2017, from <https://link.springer.com/article/10.3758/BF03212378>
-    - Newsome, W. T., & Paré, E. B. (1988). A selective impairment of motion perception following lesions of the middle temporal visual area (MT). *The Journal of Neuroscience*, *8*(6), 2201–2211. Retrieved March 30, 2015, from <https://www.ncbi.nlm.nih.gov/pubmed/3385495>
-    
+    - Newsome, W. T., & Paré, E. B. (1988). A selective impairment of motion perception following lesions of the middle temporal visual area (MT). *The Journal of Neuroscience*, *8*(6), 2201–2211. Retrieved March 30, 2015, from <https://www.ncbi.nlm.nih.gov/pubmed/3385495>. [PDF](slides/pdf/newsome-pare-1988.pdf)
+     - Lecture notes. | [HTML slides](slides/2018-03-12-motion.html) | [PDF](slides/2018-03-12-motion.pdf) |. 
+   
 ---
 
 ## Week 10 • Mon Mar 19
