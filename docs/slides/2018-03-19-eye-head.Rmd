@@ -1,0 +1,273 @@
+---
+title: "2018-03-12 Eye & Head Movements"
+subtitle: "PSY 525.001 • Vision Science • 2018 Spring"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(tidyverse)
+library(psyphy)
+library(imager)
+```
+
+# Today's topics
+
+--
+## Eye and head movements
+
+---
+class: middle, center
+
+<img src="https://www.giannisarcone.com/3-MEDIA_Images/Dynamic_muller_lyer2B.gif"/>
+
+Sarcone, Gianni A. "Dynamic Müller-Lyer Illusion." From Sarcone’s Studio -- A Sarcone & Waeber Web Resource. <http://giannisarcone.com/Muller_lyer_illusion.html>. Copyright © G. Sarcone
+
+---
+class: middle, center
+
+# Why move the eyes?
+
+--
+## Fixation
+
+--
+## Tracking
+
+---
+class: middle, center
+
+| Types            | Description                            | Comments |
+|------------------|----------------------------------------|----------|
+| Nystagmus        | small, rapid, oscillatory              | keep things visible |
+| Saccades         | ballistic, fast                        | spatial frame of ref |
+| (Smooth) Pursuit | track moving target                    | speed dependent |
+| Vergence         | Con/Diverge; disconjugate              | cue to depth |
+| Vestibular Ocular Response (VOR) | Stabilize eyes in head | stabilize in 3D |        
+| Optokinetic      | stabilize moving field                 | size of motion field critical |
+| Accommodation    | Change in shape of lens                | focus |
+| Pupillary response | Change in lighting                   |       | 
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEKML4J1rz4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Vergence
+
+---
+class: middle, center
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*BRB4QLpT7bxA5QZN3d2xrA.jpeg" height=400px/>
+
+## Vergence/accommodation conflict complicates [virtual reality (VR) displays](https://medium.com/vrinflux-dot-com/vergence-accommodation-conflict-is-a-bitch-here-s-how-to-design-around-it-87dab1a7d9ba)
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIfIWk0VscY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Smooth pursuit
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_R0LcPnZ_w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Vestibulo Ocular Reflex/Response (VOR) stabilizes gaze
+
+---
+class: middle, center
+
+## Demo: VOR permits reading/texting while walking
+
+## But: <https://youtu.be/wl0JojWH1rQ>
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LInm9cZcHyk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Optokinetic nystagmus (OKN)
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y7_f-pR8SBY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## How eye trackers work
+
+---
+class: middle, center
+
+<https://webgazer.cs.brown.edu/>
+
+## Using a web cam!
+
+---
+class: middle, center
+
+<img src="https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/mom-baby-carrier.jpg" height=450px/>
+</br>
+
+---
+class: middle, center
+
+<video data-autoplay width="350" controls>
+  <source src="https://nyu.databrary.org/slot/7740/0,24634/asset/16751/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</br>
+<video data-autoplay width="350" controls>
+  <source src="https://nyu.databrary.org/slot/7739/0,26134/asset/16749/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Gilmore, R.O., Raudies, F., Franchak, J. & Adolph, K. (2015). Understanding the development of motion processing by characterizing optic flow experienced by infants and their mothers. *Databrary*. Retrieved March 16, 2018 from http://doi.org/10.17910/B7.116
+
+---
+class: middle, center
+
+<img src="https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/optic-flow-locomotion.jpg" height=400px/>
+
+Raudies, F. & Gilmore, R.O. (2014). Visual motion priors differ for infants and mothers. *Neural Computation*, 26(11), 2652-2668. doi:10.1162/NECO_a_00645
+
+## Infants experience *faster* speeds than mothers
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NcUkvIX6no?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+class: middle, center
+
+https://vimeo.com/2883380
+
+## Simulating the effects of saccades on vision with the [EyeSeeCam](http://eyeseecam.com)
+
+---
+class: center, middle
+
+# Physiology and anatomy of eye movements
+
+---
+class: middle, center
+
+<img src="https://entokey.com/wp-content/uploads/2016/06/B9781437727036000041_f004-001-9781437727036.jpg" height=450px/>
+
+<https://entokey.com/neuro-ophthalmology-3/>
+
+---
+class: middle, center
+
+<img src="https://www.aapos.org/client_data/files/2011/_196_anatomy1.jpg" height=450px/>
+
+## 6 muscles/eye (superior/inferior and medial/lateral rectus + superior/inferior oblique)
+
+---
+class: middle, center
+
+<img src="https://amedia.britannica.com/700x450/44/54244-004-892C5169.jpg" height=450px/>
+
+## 3 cranial nerves: III (oculomotor); IV (trochlear); & VII (abducens)
+
+---
+class: middle, center
+
+<img src="https://entokey.com/wp-content/uploads/2016/06/B9781437727036000041_f004-006-9781437727036.jpg" height=450px/>
+
+<https://entokey.com/neuro-ophthalmology-3/>
+
+---
+class: middle, center
+
+<img src="https://entokey.com/wp-content/uploads/2016/06/B9781437727036000041_f004-007-9781437727036.jpg" height=450px/>
+
+<https://entokey.com/neuro-ophthalmology-3/>
+
+---
+class: middle, center
+
+<video width="800" controls>
+  <source src="https://nyu.databrary.org/slot/11141/0,5000/asset/37954/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Wilkinson, K. (2014). Preliminary investigation of visual attention to human figures in photographs: Potential considerations for the design of aided AAC visual scene displays. Databrary. Retrieved March 16, 2018 from http://doi.org/10.17910/B7G59R. 
+
+## Typically developing
+
+---
+class: middle, center
+
+<video width="800" controls>
+  <source src="https://nyu.databrary.org/slot/11141/0,5000/asset/37960/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Wilkinson, K. (2014). Preliminary investigation of visual attention to human figures in photographs: Potential considerations for the design of aided AAC visual scene displays. Databrary. Retrieved March 16, 2018 from http://doi.org/10.17910/B7G59R. 
+
+## Individuals with Down Syndrome
+
+---
+class: middle, center
+
+<video width="800" controls>
+  <source src="https://nyu.databrary.org/slot/11141/0,5000/asset/37964/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+Wilkinson, K. (2014). Preliminary investigation of visual attention to human figures in photographs: Potential considerations for the design of aided AAC visual scene displays. Databrary. Retrieved March 16, 2018 from http://doi.org/10.17910/B7G59R. 
+
+## Individuals with Autism Spectrum Disorder
+
+---
+class: middle, center, inverse
+
+# Break
+
+---
+class: middle, center
+
+Schütz, A. C., Braun, D. I., & Gegenfurtner, K. R. (2011). Eye movements and perception: a selective review. *Journal of Vision*, *11*(5). Retrieved from <http://dx.doi.org/10.1167/11.5.9>
+
+---
+class: middle, center
+
+<img src="http://jov.arvojournals.org/data/Journals/JOV/933487/jov-11-5-9-fig001.jpeg" height=500px/>
+
+Schütz, A. C., Braun, D. I., & Gegenfurtner, K. R. (2011). Eye movements and perception: a selective review. *Journal of Vision*, *11*(5). Retrieved from <http://dx.doi.org/10.1167/11.5.9>
+
+---
+class: middle, center
+
+<img src="http://jov.arvojournals.org/data/Journals/JOV/933487/jov-11-5-9-fig002.jpeg" height=500px/>
+
+Schütz, A. C., Braun, D. I., & Gegenfurtner, K. R. (2011). Eye movements and perception: a selective review. *Journal of Vision*, *11*(5). Retrieved from <http://dx.doi.org/10.1167/11.5.9>
+
+---
+class: middle, center
+
+<video width="800" controls>
+  <source src="mov/jov-11-5-9_movie1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+class: middle, center
+
+<img src="http://jov.arvojournals.org/data/Journals/JOV/933487/jov-11-5-9-fig004.jpeg" height=500px/>
+
+---
+class: center, middle
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan). Rendered HTML and supporting files are pushed to GitHub where GitHub's 'pages' feature is used to host and serve the course website.
