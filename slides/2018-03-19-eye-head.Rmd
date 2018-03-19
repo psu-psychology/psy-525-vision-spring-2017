@@ -1,5 +1,5 @@
 ---
-title: "2018-03-12 Eye & Head Movements"
+title: "2018-03-19 Eye & Head Movements"
 subtitle: "PSY 525.001 • Vision Science • 2018 Spring"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
