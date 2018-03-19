@@ -59,6 +59,20 @@ class: middle, center
 ---
 class: middle, center
 
+<img src="img/pritchard-1961-image-stabilization.jpg"/>
+
+## Image paths on the retina
+
+---
+class: middle, center
+
+<img src="img/pritchard-sci-am-1961-2.jpg"/>
+
+## Image stabilization results in perceptual fading (Pritchard, 1961)
+
+---
+class: middle, center
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEKML4J1rz4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Vergence
