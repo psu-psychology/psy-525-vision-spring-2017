@@ -72,7 +72,15 @@ class: center, middle
 
 ## 'Inattentional blindness' or perception without attention
 
-Rock, I., Linnett, C. M., Grant, P., & Mack, A. (1992). Perception without attention: results of a new method. Cognitive psychology, 24(4), 502–534. Elsevier. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/1473333
+Rock, I., Linnett, C. M., Grant, P., & Mack, A. (1992). Perception without attention: Results of a new method. *Cognitive Psychology*, *24*(4), 502–534. Elsevier. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/1473333
+
+---
+class: center, middle
+
+<img src="img/rock-etal-1992-fig-1.jpg" height=450px/>
+
+Rock et al., 1992
+
 ---
 class: center, middle
 
