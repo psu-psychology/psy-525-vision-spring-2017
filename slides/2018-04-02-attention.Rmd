@@ -206,6 +206,13 @@ class: middle, center
 ---
 class: middle, center
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D4czs5o3RsE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Tachistoscope
+
+---
+class: middle, center
+
 Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. *Perception*, *28*(9), 1059–1074. Retrieved from <http://dx.doi.org/10.1068/p281059>
 
 ---
