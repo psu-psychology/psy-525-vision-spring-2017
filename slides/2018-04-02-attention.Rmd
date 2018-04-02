@@ -214,6 +214,18 @@ class: middle, center
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtKt8YF7dgQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
+class: middle, center
+
+Neisser, U., & Becklen, R. (1975). Selective looking: Attending to visually specified events. *Cognitive Psychology*, *7*(4), 480–494. Elsevier. Retrieved from http://www.sciencedirect.com/science/article/pii/0010028575900195
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nkn3wRyb9Bk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Becklen, R., & Cervone, D. (1983). Selective looking and the noticing of unexpected events. *Memory & Cognition*, *11*(6), 601–608. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/6669028
+
+---
 class: center, middle
 
 Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan). Rendered HTML and supporting files are pushed to GitHub where GitHub's 'pages' feature is used to host and serve the course website.
