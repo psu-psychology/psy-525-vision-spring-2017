@@ -213,6 +213,15 @@ class: middle, center
 ---
 class: middle, center
 
+--
+### Why are search slopes for single features 'flat' as the number of items increases?
+
+--
+### Why are search slopes for 'negative' (conjunction target not present) conditions ~2x those for 'positive' (conjunction target present) conditions?
+
+---
+class: middle, center
+
 Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. *Perception*, *28*(9), 1059–1074. Retrieved from <http://dx.doi.org/10.1068/p281059>
 
 ---
