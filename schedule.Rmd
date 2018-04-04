@@ -149,7 +149,7 @@ title: "Schedule"
 - Topics
     - Perception & action
 - Readings
-    - Gibson, J. J. (2014). *The Ecological Approach to Visual Perception: Classic Edition*. Psychology Press. Retrieved from https://market.android.com/details?id=book-8BSLBQAAQBAJ, chapters 12-14.
+    - Gibson, J. J. (2014). *The Ecological Approach to Visual Perception: Classic Edition*. Psychology Press. Retrieved from https://market.android.com/details?id=book-8BSLBQAAQBAJ, chapters 12-14. | [PDF](pdf/gibson-1979-chaps-12-14.pdf) |.
     - Costall, A. P. (1984). Are theories of perception necessary? A review of Gibson’s The Ecological Approach to Visual Perception. *Journal of the Experimental Analysis of Behavior*, *41*(1), 109–115. Wiley Online Library. Retrieved from http://dx.doi.org/10.1901/jeab.1984.41-109
 
 ---
